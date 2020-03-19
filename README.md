@@ -11,5 +11,4 @@ List of articles
 
 ![Alt Text](img/iDibujo.gif)
 
-
-
+<img src="https://github.com/israman30/Israel-Portfolio/img/iDibujo.gif" width="40" height="40" />
