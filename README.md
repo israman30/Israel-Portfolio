@@ -9,3 +9,5 @@ List of articles
 
 ![dibujo](https://github.com/israman30/Israel-Portfolio/img/iDibujo.gif) -->
 ![Alt Text](img/iDibujo.gif =250x250)
+
+<img src="https://github.com/israman30/Israel-Portfolio/img/iDibujo.gif" alt="alt text" width="whatever" height="whatever">
