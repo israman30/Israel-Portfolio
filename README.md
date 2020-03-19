@@ -8,4 +8,4 @@ List of articles
 <!-- ![video](https://github.com/israman30/Israel-Portfolio/README.md/img/iDibujo.mov | width=100)
 
 ![dibujo](https://github.com/israman30/Israel-Portfolio/img/iDibujo.gif) -->
-![Alt Text](img/iDibujo.gif)
+![Alt Text](img/iDibujo.gif | width=100)
