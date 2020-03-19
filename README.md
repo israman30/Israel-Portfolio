@@ -5,5 +5,5 @@
 
 ### My New News
 List of articles
-![vidowo](img/iDibujo.mov)
+![video]("img/iDibujo.mov")
 
