@@ -5,7 +5,7 @@
 
 ### My New News
 List of articles
-![video]("https://github.com/israman30/Israel-Portfolio/img/iDibujo.mov")
+![video]("https://github.com/israman30/Israel-Portfolio/README.md/img/iDibujo.mov")
 
 <div>
 <video controls preload width=500>
