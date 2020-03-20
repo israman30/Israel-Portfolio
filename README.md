@@ -23,3 +23,14 @@ Save the date and get your todos organized :iphone:
 <p align="center">
 <img src="/img/chalk/one.png" width="200"> <img src="/img/chalk/two.png" width="200"> <img src="/img/chalk/three.png" width="200"> <img src="/img/chalk/save.png" width="200">
 </p>
+
+# iDibujo
+Create simple or amazing art with the drawing application. :iphone:
+
+> Draw something on the main view, customizing brush with size using sliders, opacity and rgb colors.  Reset the draw and start over. Save the your art once are you done, or cancel it. UIGraphic context: Using current context add from start CGpoint to end CGpoint. CGLine cap creates brush size and set the stroke path.
+
+<p align="center">
+<img src="/img/main.png" width="250"> <img src="/img/setting.png" width="250"> <img src="/img/save.png" width="250">
+</p>
+
+[iDibujo](https://apps.apple.com/us/app/idibujo/id1237783038)
