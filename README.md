@@ -3,17 +3,14 @@
 </div>
 
 ## I am...
-> Mobile developer
-
-> Web developer
+###### *Mobile & Web developer*
 
 ## My stack
 
-> Xcode & Android Studio
+*Mobile development I use __Xcode & Androdi Studio__* 
 
->> Swift & ObjC
+*Web development Front end I use __JavaScript - HTML - CSS/SASS__ or __REACT__ , Back end I use the __MERN__ stack or another remote databases such as __Firebase__ __MySQL__ & __SQLite__*
 
->> Kotlin & Java
 
 # NewsApp
 Check the latest news with the news app :newspaper:
