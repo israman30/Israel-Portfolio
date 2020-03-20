@@ -2,13 +2,13 @@
 
 ## Welcome to my porfolio repo
 
-### My New News
+### iDibujo
 
-List of articles
+*Testing the intro for this __application__, new app is coming.*
+*Using __Core data__ to persist the input and ~~delete~~ any record.
 
 <div align="center">
-    <p float="left">Save the tip! Using a dynamic way of interact with labels once user inputs a value that automathic calculates the tip using segmented percentages values.</p>
-    <img float="left" src="img/dibujo.gif" width="150" height="300">
+    <img src="img/dibujo.gif" width="150" height="300">
 </div>
 
 
