@@ -46,7 +46,7 @@ Create simple or amazing art with the drawing application. :iphone:
 > Draw something on the main view, customizing brush with size using sliders, opacity and rgb colors.  Reset the draw and start over. Save the your art once are you done, or cancel it. UIGraphic context: Using current context add from start CGpoint to end CGpoint. CGLine cap creates brush size and set the stroke path.
 
 <p align="center">
-<img src="/img/dibujo/main.png" width="150"> <img src="/img/dibujo/setting.png" width="1500"> 
+<img src="/img/dibujo/main.png" width="150"> <img src="/img/dibujo/setting.png" width="150"> 
 <img src="/img/dibujo/dib-and.png" width="150"> <img src="/img/dibujo/dib-and2.png" width="150"> 
 </p>
 
