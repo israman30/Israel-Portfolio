@@ -33,7 +33,7 @@ Check the latest news with the news app :newspaper:
 
 ###### *Technology*
 
-- *Native applications, using __Google__ and **Apple** Api. Xcode URL request services and a third party library for Android "OKHttpClient"*
+- *Native applications, using __Google__ and **Apple** IDEs. Xcode URLRequest and Codable services and a third party library for Android "OKHttpClient"*
 
 - *Collection view __Xcode__ and Recycler view __Android Studio__, helps to re-use each cell/item when an article is been render. Chaching info for each cell/item, helps to save network calls each time a cell/item is called/re-use*
 
@@ -48,6 +48,13 @@ Save the date and get your todos organized :iphone:
 <img src="/img/chalk/one.png" width="200"> <img src="/img/chalk/three.png" width="200"> 
 <img src="/img/chalk/one-and.png" width="200"> <img src="/img/chalk/two-and.png" width="200">
 </p>
+
+###### *Technology*
+
+- *Native applications, using __Google__ and **Apple** IDEs. Picker controller and Calendar controller, helps to get and set a reminder for the user locally*
+
+- *Table view __Xcode__ and Recycler view __Android Studio__, helps to re-use each cell/item when a task is been render. Each task is been persisted by Core Data and SQLite*
+
 
 # iDibujo
 Create simple or amazing art with the drawing application. :iphone:
