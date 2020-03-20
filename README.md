@@ -51,7 +51,7 @@ Save the date and get your todos organized :iphone:
 
 ###### *Technology*
 
-- *Native applications, using __Google__ and **Apple** IDEs. Picker controller and Calendar controller, helps to get and set a reminder for the user locally*
+- *Native applications, using __Google__ and **Apple** IDEs. Picker controller and Calendar controller, helps to get and set a locally reminder for the user*
 
 - *Table view __Xcode__ and Recycler view __Android Studio__, helps to re-use each cell/item when a task is been render. Each task is been persisted by Core Data and SQLite*
 
