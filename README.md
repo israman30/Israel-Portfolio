@@ -11,7 +11,7 @@
 
 *Web development Front end I use ```javascript ```, ```HTML ``` & ```CSS/SASS ``` + ```REACT ```  , Back end I use the __MERN__ stack or another remote databases such as __Firebase__, __MySQL__ & __SQLite__*
 
-### Contact info
+### *Contact info*
 
 ###### *israelmanzo814@gmail.com*
 
