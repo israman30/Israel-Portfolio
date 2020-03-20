@@ -33,7 +33,9 @@ Check the latest news with the news app :newspaper:
 
 ###### *Technology*
 
-> ###### Native applications using Google services and fetch request native **Apple** Api URL request services and a third party library for Android "OKHttp". 
+> ###### Native applications, using **Google** and **Apple** Api. Xcode URL request services and a third party library for Android "OKHttpClient"
+
+> ###### Collection view **Xcode** and Recycler view **Android Studio**, helps to re-use each cell/item when an article is been render. Chaching info for each cell/item, helps to save network calls each time a cell/item is called/re-use
 
 
 # The Chalkboard 
