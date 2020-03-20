@@ -33,16 +33,16 @@ Check the latest news with the news app :newspaper:
 
 ###### *Technology*
 
-> ###### Native applications, using **Google** and **Apple** Api. Xcode URL request services and a third party library for Android "OKHttpClient"
+> ###### Native applications, using __Google__ and **Apple** Api. Xcode URL request services and a third party library for Android "OKHttpClient"
 
-> ###### Collection view **Xcode** and Recycler view **Android Studio**, helps to re-use each cell/item when an article is been render. Chaching info for each cell/item, helps to save network calls each time a cell/item is called/re-use
+> ###### Collection view __Xcode__ and Recycler view __Android Studio__, helps to re-use each cell/item when an article is been render. Chaching info for each cell/item, helps to save network calls each time a cell/item is called/re-use
 
 
 # The Chalkboard 
 
 Save the date and get your todos organized :iphone:
 
-> This version is full updated on **Swift**. Store data locally based on that any task once is done can be deleted. Plus local notifications if you select a date.
+> This version is full updated on __Swift__. Store data locally based on that any task once is done can be deleted. Plus local notifications if you select a date.
 
 <p align="center">
 <img src="/img/chalk/one.png" width="200"> <img src="/img/chalk/three.png" width="200"> 
