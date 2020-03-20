@@ -47,6 +47,7 @@ Create simple or amazing art with the drawing application. :iphone:
 
 <p align="center">
 <img src="/img/dibujo/main.png" width="200"> <img src="/img/dibujo/setting.png" width="200"> 
+<img src="/img/dibujo/dib-and.png" width="150"> <img src="/img/dibujo/dib-and2.png" width="150"> 
 </p>
 
 <p align="center">
