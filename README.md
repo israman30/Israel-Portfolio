@@ -72,6 +72,16 @@ Displaying a list of buildings where the user can select and navigate a gallery 
     <img src="/img/hob/list.png" width="250"> <img src="/img/hob/page.png" width="250"> <img src="/img/hob/four.png" width="250">
 </p>  
 
+# Tip-Calculator
+
+> Calculate your tip, selecting the bill amount the application will give you a detail of how much you tip, the total amount of your tip and the original bill. Save the bill for future reference then delete on your need. 💵
+
+<p align="center">
+<img src="/img/tip/one.png" width="250"> <img src="/img/tip/two.png" width="250"> <img src="/img/tip/three.png" width="250">
+</p>
+
+[Tip Calculator](https://itunes.apple.com/us/app/my-new-news/id1210234219?mt=8)
+
 ### *What I am doing..?*
 
 ###### *Working as a Fullstack remote developer in a New York City startup*
