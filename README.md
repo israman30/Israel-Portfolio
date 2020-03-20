@@ -1,7 +1,5 @@
-# Welcome to my repo
-
 <div align="center">
-    <h1>Israel Manzo</h1>
+    <h1>Israel Manzo Repo</h1>
 </div>
 
 # NewsApp
