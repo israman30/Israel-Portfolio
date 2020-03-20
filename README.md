@@ -6,7 +6,10 @@
 
 List of articles
 <!-- ![video](https://github.com/israman30/Israel-Portfolio/README.md/img/iDibujo.mov | width=100)
+<div>
 <img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="400" height="790">
+</div>
+
 ![dibujo](https://github.com/israman30/Israel-Portfolio/img/iDibujo.gif) -->
 
 ![Alt Text](img/iDibujo.gif){:height="400px" width="100px"}
