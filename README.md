@@ -58,7 +58,7 @@ Create simple or amazing art with the drawing application. :iphone:
 
 The apartment finder application is exclusive for luxury buildings in Hoboken, NJ. :iphone:
 
-> Product under construction.. 👨🏻‍💻
+> Product under construction.. 👨🏻‍💻🛠
 
 <p align="center">
     <img src="/img/hob/main.png" width="200"> <img src="/img/hob/two.png" width="200"> <img src="/img/hob/map.png" width="200">
@@ -66,7 +66,7 @@ The apartment finder application is exclusive for luxury buildings in Hoboken, N
 
 Displaying a list of buildings where the user can select and navigate a gallery of photos.
 
-> Collection view, Paging, Scrollview
+> Product under construction.. 👨🏻‍💻🛠
 
 <p align="center">
     <img src="/img/hob/list.png" width="200"> <img src="/img/hob/page.png" width="200"> <img src="/img/hob/four.png" width="200">
@@ -75,6 +75,8 @@ Displaying a list of buildings where the user can select and navigate a gallery 
 # Tip-Calculator
 
 > Calculate your tip, selecting the bill amount the application will give you a detail of how much you tip, the total amount of your tip and the original bill. Save the bill for future reference then delete on your need. 💵
+
+> Android version, coming soon.. 📲
 
 <p align="center">
 <img src="/img/tip/one.png" width="250"> <img src="/img/tip/two.png" width="250"> <img src="/img/tip/three.png" width="250">
