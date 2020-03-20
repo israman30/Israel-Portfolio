@@ -50,7 +50,7 @@ Create simple or amazing art with the drawing application. :iphone:
 </p>
 
 <p align="center">
-<img src="/img/dibujo/dib-and.png" width="200"> <img src="/img/dibujo/dib-and2.png" width="200"> 
+<img src="/img/dibujo/dib-and.png" width="150"> <img src="/img/dibujo/dib-and2.png" width="150"> 
 </p>
 
 [iDibujo](https://apps.apple.com/us/app/idibujo/id1237783038)
