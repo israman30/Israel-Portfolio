@@ -1,6 +1,4 @@
-# Israel-Portfolio
-
-## Welcome to my porfolio repo
+# Welcome to my porfolio repo
 
 # NewsApp
 Check the latest news with the news app :newspaper:
