@@ -33,6 +33,9 @@ Check the latest news with the news app :newspaper:
 
 ###### *Technology*
 
+> ###### Native applications using Google services and fetch request native **Apple** Api URL request services and a third party library for Android "OKHttp". 
+
+
 # The Chalkboard 
 
 Save the date and get your todos organized :iphone:
