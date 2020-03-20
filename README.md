@@ -2,7 +2,7 @@
     <h2>Israel Manzo Repo</h2>
 </div>
 
-### I am...
+### *I am...*
 ###### *Mobile & Web developer*
 
 ## My stack
@@ -61,3 +61,9 @@ Displaying a list of buildings where the user can select and navigate a gallery 
 <p align="center">
     <img src="/img/hob/list.png" width="250"> <img src="/img/hob/page.png" width="250"> <img src="/img/hob/four.png" width="250">
 </p>  
+
+### *What I am doing..?*
+
+###### *Working as a Fullstack remote developer in a New York City startup*
+
+###### *Full time father and husband*
