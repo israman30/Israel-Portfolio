@@ -58,7 +58,7 @@ Create simple or amazing art with the drawing application. :iphone:
 
 The apartment finder application is exclusive for luxury buildings in Hoboken, NJ. :iphone:
 
-> MapKit, Collection view, Geo location, MK annotation
+> Product under construction.. 👨🏻‍💻
 
 <p align="center">
     <img src="/img/hob/main.png" width="200"> <img src="/img/hob/two.png" width="200"> <img src="/img/hob/map.png" width="200">
