@@ -6,7 +6,7 @@
 
 List of articles
 
-<div>
+<div text-align="center">
     <img src="img/dibujo.gif" width="150" height="300">
 </div>
 
