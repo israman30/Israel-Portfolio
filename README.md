@@ -31,6 +31,8 @@ Check the latest news with the news app :newspaper:
 
 [My New News](https://itunes.apple.com/us/app/my-new-news/id1210234219?mt=8)
 
+###### *Technology*
+
 # The Chalkboard 
 
 Save the date and get your todos organized :iphone:
