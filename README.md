@@ -25,8 +25,8 @@ Check the latest news with the news app :newspaper:
 > My New News presents you with the latest news stories. Tap a story to see and read the full news article. It's an easy and convenient way to stay up to date with the latest breaking news.
 
 <p align="center">
-<img src="/img/one.png" width="200"> <img src="/img/two.png" width="200">
-<img src="/img/one-and.png" width="200"> <img src="/img/two-and.png" width="200"> 
+<img src="/img/news/one.png" width="200"> <img src="/img/news/two.png" width="200">
+<img src="/img/news/one-and.png" width="200"> <img src="/img/news/two-and.png" width="200"> 
 </p>
 
 [My New News](https://itunes.apple.com/us/app/my-new-news/id1210234219?mt=8)
