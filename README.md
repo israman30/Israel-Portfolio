@@ -38,7 +38,8 @@ Save the date and get your todos organized :iphone:
 > This version is full updated on **Swift**. Store data locally based on that any task once is done can be deleted. Plus local notifications if you select a date.
 
 <p align="center">
-<img src="/img/chalk/one.png" width="200"> <img src="/img/chalk/two.png" width="200"> <img src="/img/chalk/three.png" width="200"> <img src="/img/chalk/save.png" width="200">
+<img src="/img/chalk/one.png" width="200"> <img src="/img/chalk/three.png" width="200"> 
+<img src="/img/chalk/one-and.png" width="200"> <img src="/img/chalk/two-and.png" width="200">
 </p>
 
 # iDibujo
