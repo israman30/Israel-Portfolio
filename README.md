@@ -9,6 +9,6 @@ List of articles
 
 ![dibujo](https://github.com/israman30/Israel-Portfolio/img/iDibujo.gif) -->
 
-![Alt Text](img/iDibujo.gif | width=100)
+![Alt Text](img/iDibujo.gif | width=100){:height="700px" width="400px"}
 
 <img src="https://github.com/israman30/Israel-Portfolio/img/iDibujo.gif" width="40" height="40" />
