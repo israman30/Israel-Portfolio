@@ -26,6 +26,7 @@ Check the latest news with the news app :newspaper:
 
 <p align="center">
 <img src="/img/one.png" width="200"> <img src="/img/two.png" width="200"> <img src="/img/three.png" width="200">
+<img src="/img/one-and.png" width="200"> <img src="/img/two-and.png" width="200"> 
 </p>
 
 [My New News](https://itunes.apple.com/us/app/my-new-news/id1210234219?mt=8)
