@@ -61,7 +61,7 @@ The apartment finder application is exclusive for luxury buildings in Hoboken, N
 > MapKit, Collection view, Geo location, MK annotation
 
 <p align="center">
-    <img src="/img/hob/main.png" width="250"> <img src="/img/hob/two.png" width="250"> <img src="/img/hob/map.png" width="250">
+    <img src="/img/hob/main.png" width="200"> <img src="/img/hob/two.png" width="200"> <img src="/img/hob/map.png" width="200">
 </p>
 
 Displaying a list of buildings where the user can select and navigate a gallery of photos.
@@ -69,7 +69,7 @@ Displaying a list of buildings where the user can select and navigate a gallery 
 > Collection view, Paging, Scrollview
 
 <p align="center">
-    <img src="/img/hob/list.png" width="250"> <img src="/img/hob/page.png" width="250"> <img src="/img/hob/four.png" width="250">
+    <img src="/img/hob/list.png" width="200"> <img src="/img/hob/page.png" width="200"> <img src="/img/hob/four.png" width="200">
 </p>  
 
 # Tip-Calculator
