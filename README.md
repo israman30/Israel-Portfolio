@@ -2,7 +2,7 @@
     <h2>Israel Manzo Repo</h2>
 </div>
 
-## I am...
+### I am...
 ###### *Mobile & Web developer*
 
 ## My stack
