@@ -1,8 +1,11 @@
 # Welcome to my repo
 
+<div align="center">
+    <h1>Israel Manzo</h1>
+</div>
+
 # NewsApp
 Check the latest news with the news app :newspaper:
-
 
 > My New News presents you with the latest news stories. Tap a story to see and read the full news article. It's an easy and convenient way to stay up to date with the latest breaking news.
 
