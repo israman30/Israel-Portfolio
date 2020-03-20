@@ -26,6 +26,7 @@ Check the latest news with the news app :newspaper:
 <img src="/img/one.png" width="250"> <img src="/img/two.png" width="250"> <img src="/img/three.png" width="250">
 </p>
 
+![img/git.png](link-to-image)
 [My New News](https://itunes.apple.com/us/app/my-new-news/id1210234219?mt=8)
 
 # The Chalkboard 
