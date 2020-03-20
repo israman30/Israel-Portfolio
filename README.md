@@ -1,4 +1,4 @@
-# Welcome to my porfolio repo
+# Welcome to my repo
 
 # NewsApp
 Check the latest news with the news app :newspaper:
