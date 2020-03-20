@@ -2,6 +2,19 @@
     <h2>Israel Manzo Repo</h2>
 </div>
 
+## I am...
+> Mobile developer
+
+> Web developer
+
+## My stack
+
+> Xcode & Android Studio
+
+>> Swift & ObjC
+
+>> Kotlin & Java
+
 # NewsApp
 Check the latest news with the news app :newspaper:
 
