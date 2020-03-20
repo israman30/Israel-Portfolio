@@ -16,7 +16,7 @@
 ###### *israelmanzo814@gmail.com*
 
 <div align="center">
-    <h2>My projects</h2>
+    <h2>My Work</h2>
 </div>
 
 # NewsApp
