@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Israel Manzo Repo</h1>
+    <h2>Israel Manzo Repo</h2>
 </div>
 
 # NewsApp
