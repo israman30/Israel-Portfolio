@@ -9,7 +9,7 @@
 
 *Mobile development I use  __Xcode__ ```Swift/ObjC ``` & __Androdi Studio__ ```Kotlin/Java ```* 
 
-*Web development Front end I use ```javascript ```, ```HTML ``` & ```CSS/SASS ``` + ```REACT ```  , Back end I use the __MERN__ stack or another remote databases such as __Firebase__, __MySQL__ & __SQLite__*
+*Web development Front end I use ```javascript ```, ```HTML ``` & ```CSS/SASS ``` + ```REACT ```  , Back end I use the __MERN__ stack or/with another remote databases such as __Firebase__, __MySQL__ & __SQLite__*
 
 ### *Contact info*
 
