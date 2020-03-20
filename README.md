@@ -59,7 +59,7 @@ Save the date and get your todos organized :iphone:
 # iDibujo
 Create simple or amazing art with the drawing application. :iphone:
 
-> Draw something on the main view, customizing brush with size using sliders, opacity and rgb colors.  Reset the draw and start over. Save the your art once are you done, or cancel it. UIGraphic context: Using current context add from start CGpoint to end CGpoint. CGLine cap creates brush size and set the stroke path.
+> Have some fun creating awesome art. Pick a bursh size and any color. You can save our art in your local gallery.
 
 <p align="center">
 <img src="/img/dibujo/one.png" width="200"> <img src="/img/dibujo/two.png" width="200"> 
