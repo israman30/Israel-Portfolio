@@ -5,7 +5,7 @@
 ### My New News
 
 List of articles
-<!-- ![video](https://github.com/israman30/Israel-Portfolio/README.md/img/iDibujo.mov | width=100)
+
 <div>
 <img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="400" height="790">
 </div>
