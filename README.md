@@ -7,7 +7,7 @@
 List of articles
 
 <div>
-<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="400" height="790">
+<img src="img/iDibujo.gif" width="400" height="790">
 </div>
 
 ![dibujo](https://github.com/israman30/Israel-Portfolio/img/iDibujo.gif) -->
