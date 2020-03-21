@@ -112,7 +112,7 @@ Displaying a list of buildings where the user can select and navigate a gallery 
 
 ###### *Technology*
 
-- *Dynamic way to input and calculate in real time a value tip*
+- *Dynamic way to input and calculate real time a value tip*
 
 - *``` Core Data``` is my friend database that helps to persist saved values & of course can be delete it*
 
@@ -122,3 +122,5 @@ Displaying a list of buildings where the user can select and navigate a gallery 
 ###### *Working as a Fullstack remote developer in a New York City startup*
 
 ###### *Full time father and husband*
+
+###### *israelmanzo814@gmail.com*
