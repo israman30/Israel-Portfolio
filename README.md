@@ -72,7 +72,7 @@ Create simple or amazing art with the drawing application. :iphone:
 
 - *Native application, using __Google__ and **Apple** IDEs. Using points start & end ```CGPoint & Bitmap```*
 
-- *Custom Drawing view, ```Sliders & Seekbar``` helps to pick a color with __RGB__ values changing*
+- *Custom Drawing view, ```Sliders & Seekbars``` helps to pick a color with __RGB__ values changing*
 
 # Hob Lux
 
@@ -91,6 +91,12 @@ Displaying a list of buildings where the user can select and navigate a gallery 
 <p align="center">
     <img src="/img/hob/list.png" width="200"> <img src="/img/hob/page.png" width="200"> <img src="/img/hob/four.png" width="200">
 </p>  
+
+###### *Technology*
+
+- *Using **Apple** Xcode IDE gives the tools to create a visual location of each building on screen*
+
+- *``` MapKit & Geo Location``` helps to display each annotation. Custom Collection view show a list of building that the user can tap and get a detail-info and gallery*
 
 # Tip-Calculator
 
