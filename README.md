@@ -125,4 +125,6 @@ Displaying a list of buildings where the user can select and navigate a gallery 
 
 ###### *israelmanzo814@gmail.com* 
 
-###### *@israman30*
+<p align="center">
+    <p>@israman30</p>
+</p>
