@@ -33,7 +33,7 @@ Check the latest news with the news app :newspaper:
 
 ###### *Technology*
 
-- *Native applications, using __Google__ and **Apple** IDEs. Xcode ```Swift URLRequest and Codable ``` services and a third party library for Android ```Kotlin OKHttpClient```*
+- *Native applications, using __Google__ and **Apple** IDEs. Xcode ```URLRequest and Codable ``` services and a third party library for Android ```OKHttpClient```*
 
 - *Collection view __Xcode__ and Recycler view __Android Studio__, helps to re-use each cell/item when an article is been render. Chaching info for each cell/item, helps to save network calls each time a cell/item is called/re-use*
 
