@@ -126,5 +126,5 @@ Displaying a list of buildings where the user can select and navigate a gallery 
 ###### *israelmanzo814@gmail.com* 
 
 <div align="center">
-    <p>@israman30</p>
+    <p style="color:gray">@israman30</p>
 </div>
