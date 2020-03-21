@@ -110,6 +110,13 @@ Displaying a list of buildings where the user can select and navigate a gallery 
 
 [Tip Calculator](https://itunes.apple.com/us/app/my-new-news/id1210234219?mt=8)
 
+###### *Technology*
+
+- *Dynamic way to input and calculate in real time a value tip*
+
+- *``` Core Data``` is my friend database that helps to persist saved values & of course can be delete it*
+
+
 ### *What I am doing now..?*
 
 ###### *Working as a Fullstack remote developer in a New York City startup*
