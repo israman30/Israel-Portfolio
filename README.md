@@ -68,6 +68,12 @@ Create simple or amazing art with the drawing application. :iphone:
 
 [iDibujo](https://apps.apple.com/us/app/idibujo/id1237783038)
 
+###### *Technology*
+
+- *Native applications, using __Google__ and **Apple** IDEs. Using points start & end*
+
+- *Table view __Xcode__ and Recycler view __Android Studio__, helps to re-use each cell/item when a task is been render. Each task is been persisted by Core Data and SQLite*
+
 # Hob Lux
 
 The apartment finder application is exclusive for luxury buildings in Hoboken, NJ. :iphone:
