@@ -72,7 +72,7 @@ Create simple or amazing art with the drawing application. :iphone:
 
 - *Native application, using __Google__ and **Apple** IDEs. Using points start & end ```CGPoint & Bitmap```*
 
-- *Custom Drawing view, ```Sliders & Seekbar``` helps to pick a color using __RGB__ values*
+- *Custom Drawing view, ```Sliders & Seekbar``` helps to pick a color with __RGB__ values changing*
 
 # Hob Lux
 
