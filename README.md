@@ -33,7 +33,7 @@ Check the latest news with the news app :newspaper:
 
 ###### *Technology*
 
-- *Native applications, using __Google__ and **Apple** IDEs. Xcode ```URLRequest & Codable ``` services and a third party library for Android ```OKHttpClient & Piccaso```*
+- *Native application, using __Google__ and **Apple** IDEs. Xcode ```URLRequest & Codable ``` services and a third party library for Android ```OKHttpClient & Piccaso```*
 
 - *Collection view __Xcode__ and Recycler view __Android Studio__, helps to re-use each cell/item when an article is been render. Chaching info for each cell/item, helps to save network calls each time a cell/item is called/re-use*
 
@@ -51,9 +51,9 @@ Save the date and get your todos organized :iphone:
 
 ###### *Technology*
 
-- *Native applications, using __Google__ and **Apple** IDEs. Picker controller and Calendar controller, helps to get and set a locally reminder for the user*
+- *Native application, using __Google__ and **Apple** IDEs. ```Picker controller & Calendar controller```, helps to get and set a locally reminders for the user*
 
-- *Table view __Xcode__ and Recycler view __Android Studio__, helps to re-use each cell/item when a task is been render. Each task is been persisted by Core Data and SQLite*
+- *Table view __Xcode__ and Recycler view __Android Studio__, helps to re-use each cell/item when a task is been render. Each task is been persisted by ```Core Data & SQLite```*
 
 
 # iDibujo
@@ -70,9 +70,9 @@ Create simple or amazing art with the drawing application. :iphone:
 
 ###### *Technology*
 
-- *Native applications, using __Google__ and **Apple** IDEs. Using points start & end*
+- *Native application, using __Google__ and **Apple** IDEs. Using points start & end ```CGPoint & Bitmap```*
 
-- *Table view __Xcode__ and Recycler view __Android Studio__, helps to re-use each cell/item when a task is been render. Each task is been persisted by Core Data and SQLite*
+- *Custom Drawing view, ```Sliders & Seekbar``` helps to pick a color using __RGB__ values*
 
 # Hob Lux
 
