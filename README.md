@@ -123,6 +123,4 @@ Displaying a list of buildings where the user can select and navigate a gallery 
 
 ###### *Full time father and husband*
 
-<p align="center">
-    <a src="mailto: israelmanzo814@gmail.com">israelmanzo814@gmail.com</a>
-</p>
+###### *israelmanzo814@gmail.com*
