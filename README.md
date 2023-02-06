@@ -15,16 +15,16 @@
 
 ### Professional Exeperience
 *iOS Engineer at Limeade*
-*Develop, Maintain and collaborate with iOS front end,```A11y``` user interface.*
+> *Develop, Maintain and collaborate with iOS front end,```A11y``` user interface.*
 
 *iOS Engineer at EE Solutions*
-*Develop and maintain ```iOS/iPad``` application using Swift and SwiftUI.*
+> *Develop and maintain ```iOS/iPad``` application using Swift and SwiftUI.*
 
 *iOS Engineer at FlaveApp*
-*Work in collaboration to maintain an existing iOS application fully written in SwiftUI.*
+> *Work in collaboration to maintain an existing iOS application fully written in SwiftUI.*
 
 *Full Stack Developer at Plate Rate*
-*Collaborate with a multynational team using Front End Technology ```ReactJS```, ```HTML5```, ```CSS3``` and ```JavaScript (ES6)```.*
+> *Collaborate with a multynational team using Front End Technology ```ReactJS```, ```HTML5```, ```CSS3``` and ```JavaScript (ES6)```.*
 
 <div align="center">
     <h2>My Projects</h2>
