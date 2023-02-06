@@ -3,28 +3,28 @@
 </div>
 
 ### *I am...*
-###### *Mobile & Web developer*
+###### *Mobile Developer*
 
 ## The Stack
 
-*Mobile development I use  __Xcode__ ```Swift/ObjC ``` & __Android Studio__ ```Kotlin/Java ```* 
+*Mobile development I use  __Xcode__ ```Swift/SwiftUI ``` with some ```Obj-C``` & __Android Studio__ ```Kotlin/Java ```* 
 
 ### *Contact info*
 
 ###### *israelmanzo814@gmail.com*
 
 ### Professional Exeperience
-__iOS Engineer at Limeade__
-__Develop, Maintain and collaborate with iOS front end,``` A11y``` user interface.__
+*iOS Engineer at Limeade*
+*Develop, Maintain and collaborate with iOS front end,```A11y``` user interface.*
 
-__iOS Engineer at EE Solutions__
-__Develop and maintain ```iOS/iPad``` application using Swift and SwiftUI.__
+*iOS Engineer at EE Solutions*
+*Develop and maintain ```iOS/iPad``` application using Swift and SwiftUI.*
 
-__iOS Engineer at FlaveApp__
-__Work in collaboration to maintain an existing iOS application fully written in SwiftUI.__
+*iOS Engineer at FlaveApp*
+*Work in collaboration to maintain an existing iOS application fully written in SwiftUI.*
 
-__Full Stack Developer at Plate Rate__
-__Collaborate with a multynational team using Front End Technology ```ReactJS```, ```HTML5```, ```CSS3``` and ```JavaScript (ES6)```.
+*Full Stack Developer at Plate Rate*
+*Collaborate with a multynational team using Front End Technology ```ReactJS```, ```HTML5```, ```CSS3``` and ```JavaScript (ES6)```.*
 
 <div align="center">
     <h2>My Projects</h2>
