@@ -9,14 +9,22 @@
 
 *Mobile development I use  __Xcode__ ```Swift/ObjC ``` & __Android Studio__ ```Kotlin/Java ```* 
 
-*Web development Front end I use ```javascript ```, ```HTML ``` & ```CSS/SASS ``` + ```REACT ```  , Back end I use the __MERN__ stack or/with another remote databases such as __Firebase__, __MySQL__ & __SQLite__*
-
 ### *Contact info*
 
 ###### *israelmanzo814@gmail.com*
 
+### Professional Exeperience
+iOS Engineer at Limeade
+Develop, Maintain and collaborate with iOS front end, A11y user interface.
+iOS Engineer at EE Solutions
+Develop and maintain iOS/iPad application using Swift and SwiftUI.
+iOS Engineer at FlaveApp
+Work in collaboration to maintain an existing iOS application fully written in SwiftUI.
+Full Stack Developer at Plate Rate
+Collaborate with a multynatoinal team using Front End Technology ReactJS, HTML5, CSS3 and JavaScript (ES6).
+
 <div align="center">
-    <h2>My Work</h2>
+    <h2>My Projects</h2>
 </div>
 
 # NewsApp
