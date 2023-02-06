@@ -14,14 +14,17 @@
 ###### *israelmanzo814@gmail.com*
 
 ### Professional Exeperience
-iOS Engineer at Limeade
-Develop, Maintain and collaborate with iOS front end, A11y user interface.
-iOS Engineer at EE Solutions
-Develop and maintain iOS/iPad application using Swift and SwiftUI.
-iOS Engineer at FlaveApp
-Work in collaboration to maintain an existing iOS application fully written in SwiftUI.
-Full Stack Developer at Plate Rate
-Collaborate with a multynatoinal team using Front End Technology ReactJS, HTML5, CSS3 and JavaScript (ES6).
+__iOS Engineer at Limeade__
+__Develop, Maintain and collaborate with iOS front end,``` A11y``` user interface.__
+
+__iOS Engineer at EE Solutions__
+__Develop and maintain ```iOS/iPad``` application using Swift and SwiftUI.__
+
+__iOS Engineer at FlaveApp__
+__Work in collaboration to maintain an existing iOS application fully written in SwiftUI.__
+
+__Full Stack Developer at Plate Rate__
+__Collaborate with a multynational team using Front End Technology ```ReactJS```, ```HTML5```, ```CSS3``` and ```JavaScript (ES6)```.
 
 <div align="center">
     <h2>My Projects</h2>
@@ -127,7 +130,7 @@ Displaying a list of buildings where the user can select and navigate a gallery 
 
 ### *What I am doing now..?*
 
-###### *Working as a Fullstack remote developer in a New York City startup*
+###### *Working as remote iOS Developer for a WA state mid size company*
 
 ###### *Full time father and husband*
 
