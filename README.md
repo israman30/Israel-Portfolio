@@ -13,7 +13,7 @@
 
 ###### *israelmanzo814@gmail.com*
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
 ### Professional Exeperience
 *iOS Engineer at Limeade*
