@@ -7,7 +7,7 @@
 
 ## The Stack
 
-*Mobile development I use  __Xcode__ ```Swift/SwiftUI ``` with some ```Obj-C``` & __Android Studio__ ```Kotlin/Java ```* 
+*Mobile development I use  __Xcode__  ```swift Swift/SwiftUI ``` with some ```Obj-C``` & __Android Studio__ ```Kotlin/Java ```* 
 
 ### *Contact info*
 
