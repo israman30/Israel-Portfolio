@@ -15,7 +15,7 @@
 
 ### Professional Exeperience
 *iOS Engineer at Limeade*
-> *Develop, Maintain and collaborate with iOS front end,```A11y``` user interface.*
+> *Develop, Maintain and collaborate with iOS front end,```A11y``` user interface. Collabarating on maintain CI/CD creating, maintaining and reviewing clean, readable and testable code.*
 
 *iOS Engineer at EE Solutions*
 > *Develop and maintain ```iOS/iPad``` application using Swift and SwiftUI.*
