@@ -4,7 +4,7 @@
 
 ### *I am...*
 
-- #### iOS Engineer
+#### iOS Engineer
 
 - ###### *Crafting Applications since 2016*
 
