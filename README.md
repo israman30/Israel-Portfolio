@@ -8,7 +8,7 @@
 
 ###### *Crafting Applications since 2016*
 
-###### *Accessibility specialist*
+###### *Accessibility specialist* [#yA11](https://www.a11yproject.com/)
 <p align="center">
 <img src="img/Accessibility.png" width="120">
 </p>
