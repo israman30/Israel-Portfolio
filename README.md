@@ -87,7 +87,7 @@ Create simple or amazing art with the drawing application. :iphone:
 <img src="/img/dibujo/one-and.png" width="200"> <img src="/img/dibujo/two-and.png" width="200"> 
 </p>
 
-[iDibujo](https://apps.apple.com/us/app/idibujo/id1237783038)
+[iDibujo](https://apps.apple.com/us/app/idibujo/6446123873)
 
 ###### *Technology*
 
