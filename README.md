@@ -10,7 +10,7 @@
 
 ###### *Accessibility specialist*
 <p align="center">
-<img src="/Accessibility/news/one.png" width="200">
+<img src="img/Accessibility.png" width="200">
 </p>
 
 ## The Stack
