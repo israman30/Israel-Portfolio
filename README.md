@@ -5,6 +5,8 @@
 ### *I am...*
 ##### *iOS Engineer*
 
+> Crafting Applications since 2016
+
 ## The Stack
 
 *Mobile development I use  __Xcode__  ```Swift/SwiftUI ``` with some ```Obj-C``` & __Android Studio__ ```Kotlin/Java ```* 
