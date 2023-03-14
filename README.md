@@ -5,7 +5,12 @@
 ### *I am...*
 ##### *iOS Engineer*
 
-> Crafting Applications since 2016
+###### *Crafting Applications since 2016*
+
+###### *Accessibility specialist*
+<p align="center">
+<img src="/Accessibility/news/one.png" width="200">
+</p>
 
 ## The Stack
 
