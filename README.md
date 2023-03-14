@@ -3,7 +3,15 @@
 </div>
 
 ### *I am...*
-##### *iOS Engineer ##### App Crafter*
+
+#### iOS Engineer
+
+###### *Crafting Applications since 2016*
+
+###### *Accessibility specialist*
+<p align="center">
+<img src="/Accessibility/news/one.png" width="200">
+</p>
 
 ## The Stack
 
@@ -12,6 +20,8 @@
 ### *Contact info*
 
 ###### *israelmanzo814@gmail.com*
+
+[1]: http://www.twitter.com/carlsednaoui
 
 ### Professional Exeperience
 *iOS Engineer at Limeade*
