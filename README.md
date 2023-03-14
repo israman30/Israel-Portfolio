@@ -4,11 +4,11 @@
 
 ### *I am...*
 
-> #### iOS Engineer
+- #### iOS Engineer
 
-> ###### *Crafting Applications since 2016*
+- ###### *Crafting Applications since 2016*
 
-###### *Accessibility specialist* [#A11y](https://www.a11yproject.com/)
+- ###### *Accessibility specialist* [#A11y](https://www.a11yproject.com/)
 <p align="center">
 <img src="img/Accessibility.png" width="120">
 </p>
