@@ -34,7 +34,7 @@
 > *As the lead on the iOS project, I collaborate with iOS, Android, UX, and management teams to oversee the maintenance of the SwiftUI-based iOS application. I am dedicated to reviewing and upholding code that is both readable, clean, and testable.*
 
 *Full Stack Developer at Plate Rate*
-> *Collaborate with a multynational team using Front End Technology ```ReactJS```, ```HTML5```, ```CSS3``` and ```JavaScript (ES6)```.*
+> *Collaborate with a multinational team using Front End Technology ```ReactJS```, ```HTML5```, ```CSS3``` and ```JavaScript (ES6)```.*
 
 <div align="center">
     <h2>My Projects</h2>
@@ -43,7 +43,8 @@
 # NewsApp
 Check the latest news with the news app :newspaper:
 
-> My New News presents you with the latest news stories. Tap a story to see and read the full news article. It's an easy and convenient way to stay up to date with the latest breaking news.
+> Experience the latest news stories through My New News. Simply tap on a story to access and read the full news article. Stay effortlessly updated with the latest breaking news in a convenient way.
+
 
 <p align="center">
 <img src="/img/news/one.png" width="200"> <img src="/img/news/two.png" width="200">
@@ -63,7 +64,7 @@ Check the latest news with the news app :newspaper:
 
 Save the date and get your todos organized :iphone:
 
-> This version is full updated on __Swift__. Store data locally based on that any task once is done can be deleted. Plus local notifications if you select a date.
+> This version has been entirely updated using Swift. It stores data locally, allowing completed tasks to be removed. Additionally, it features local notifications that can be set for specific dates.
 
 <p align="center">
 <img src="/img/chalk/one.png" width="200"> <img src="/img/chalk/three.png" width="200"> 
@@ -80,7 +81,7 @@ Save the date and get your todos organized :iphone:
 # iDibujo
 Create simple or amazing art with the drawing application. :iphone:
 
-> Have some fun creating awesome art. Pick a bursh size and any color. You can save our art in your local gallery.
+> Indulge in creative expression by crafting captivating art. Select your desired brush size and choose any color you like. Your artistic creations can be saved conveniently in your local gallery.
 
 <p align="center">
 <img src="/img/dibujo/one.png" width="200"> <img src="/img/dibujo/two.png" width="200"> 
@@ -121,7 +122,7 @@ Displaying a list of buildings where the user can select and navigate a gallery 
 
 # Tip-Calculator
 
-> Calculate your tip, selecting the bill amount the application will give you a detail of how much you tip, the total amount of your tip and the original bill. Save the bill for future reference then delete on your need. 💵
+> Effortlessly compute your tip by inputting the bill amount. The application provides a breakdown of your tip amount, the total payment including the tip, and the initial bill. You can even save the bill for later reference and delete it as needed.
 
 > Android version, coming soon.. 📲
 
