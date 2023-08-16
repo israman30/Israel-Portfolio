@@ -26,8 +26,9 @@
 ### Professional Exeperience
 *iOS Engineer at Limeade*
 > *Develop, Maintain and collaborate with iOS front end, ```A11y``` user interface. Collaborating on maintain CI/CD creating, maintaining and reviewing clean, readable and testable code.*
+
 *iOS Engineer at EE Solutions*
-> *Develop and maintain ```iOS/iPad``` application using Swift and SwiftUI. Reviewing and delivering new features on time.*
+> *Taking charge of the ```iOS/iPad``` project, I collaborate closely with iOS, Android, UX, and management teams to uphold the complete SwiftUI-based iOS application. My responsibilities encompass code reviews and ensuring the maintenance of readable, clean, and testable code.*
 
 *iOS Engineer at FlaveApp*
 > *Leading the iOS project, work in collaboration with iOS, Android, UX and management team to maintain the iOS application fully written in SwiftUI. Reviewing and maintain readable, clean and testable code.*
