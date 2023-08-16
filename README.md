@@ -31,7 +31,7 @@
 > *Taking charge of the ```iOS/iPad``` project, I collaborate closely with iOS, Android, UX, and management teams to uphold the complete SwiftUI-based iOS application. My responsibilities encompass code reviews and ensuring the maintenance of readable, clean, and testable code.*
 
 *iOS Engineer at FlaveApp*
-> *Leading the iOS project, work in collaboration with iOS, Android, UX and management team to maintain the iOS application fully written in SwiftUI. Reviewing and maintain readable, clean and testable code.*
+> *As the lead on the iOS project, I collaborate with iOS, Android, UX, and management teams to oversee the maintenance of the SwiftUI-based iOS application. I am dedicated to reviewing and upholding code that is both readable, clean, and testable.*
 
 *Full Stack Developer at Plate Rate*
 > *Collaborate with a multynational team using Front End Technology ```ReactJS```, ```HTML5```, ```CSS3``` and ```JavaScript (ES6)```.*
