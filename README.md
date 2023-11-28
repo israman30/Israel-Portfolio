@@ -28,7 +28,7 @@ _Experienced iOS Engineer with a proven track record of designing, developing, a
 > *"Lead the development, maintenance, and collaboration of iOS front-end projects, specializing in ```A11y``` (Accessibility) user interface design. Proactively contribute to the CI/CD pipeline by creating, maintaining, and reviewing clean, readable, and testable code, ensuring high-quality software delivery."*
 
 *iOS Engineer at EE Solutions*
-> *Taking charge of the ```iOS/iPad``` project, I collaborate closely with iOS, Android, UX, and management teams to uphold the complete SwiftUI-based iOS application. My responsibilities encompass code reviews and ensuring the maintenance of readable, clean, and testable code.*
+> *"As the leader of the ```iOS/iPad``` project, I actively collaborate with iOS, Android, UX, and management teams to oversee the comprehensive SwiftUI-based iOS application. I conduct thorough code reviews, ensuring the maintenance of clean, readable, and testable code."*
 
 *iOS Engineer at FlaveApp*
 > *As the lead on the iOS project, I collaborate with iOS, Android, UX, and management teams to oversee the maintenance of the SwiftUI-based iOS application. I am dedicated to reviewing and upholding code that is both readable, clean, and testable.*
