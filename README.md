@@ -4,8 +4,6 @@
 
 ### *I am...*
 
-#### *iOS Engineer*
-
 _Experienced iOS Engineer with a proven track record of designing, developing, and optimizing robust mobile applications. Committed to delivering exceptional user experiences through innovative solutions and staying abreast of the latest technologies in the ever-evolving iOS landscape_.
 
 - ###### *Crafting Applications since 2016*
@@ -27,7 +25,7 @@ _Experienced iOS Engineer with a proven track record of designing, developing, a
 
 ### Professional Exeperience
 *iOS Engineer at Limeade*
-> *Develop, Maintain and collaborate with iOS front end, ```A11y``` user interface. Collaborating on maintain CI/CD creating, maintaining and reviewing clean, readable and testable code.*
+> *"Lead the development, maintenance, and collaboration of iOS front-end projects, specializing in ```A11y``` (Accessibility) user interface design. Proactively contribute to the CI/CD pipeline by creating, maintaining, and reviewing clean, readable, and testable code, ensuring high-quality software delivery."*
 
 *iOS Engineer at EE Solutions*
 > *Taking charge of the ```iOS/iPad``` project, I collaborate closely with iOS, Android, UX, and management teams to uphold the complete SwiftUI-based iOS application. My responsibilities encompass code reviews and ensuring the maintenance of readable, clean, and testable code.*
