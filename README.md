@@ -6,7 +6,7 @@
 
 #### *iOS Engineer*
 
-Experienced iOS Engineer with a proven track record of designing, developing, and optimizing robust mobile applications. Committed to delivering exceptional user experiences through innovative solutions and staying abreast of the latest technologies in the ever-evolving iOS landscape.
+_Experienced iOS Engineer with a proven track record of designing, developing, and optimizing robust mobile applications. Committed to delivering exceptional user experiences through innovative solutions and staying abreast of the latest technologies in the ever-evolving iOS landscape_.
 
 - ###### *Crafting Applications since 2016*
 
