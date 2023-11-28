@@ -31,7 +31,7 @@ _Experienced iOS Engineer with a proven track record of designing, developing, a
 > *"As the leader of the ```iOS/iPad``` project, I actively collaborate with iOS, Android, UX, and management teams to oversee the comprehensive SwiftUI-based iOS application. I conduct thorough code reviews, ensuring the maintenance of clean, readable, and testable code."*
 
 *iOS Engineer at FlaveApp*
-> *As the lead on the iOS project, I collaborate with iOS, Android, UX, and management teams to oversee the maintenance of the SwiftUI-based iOS application. I am dedicated to reviewing and upholding code that is both readable, clean, and testable.*
+> *"As the lead on the iOS project, I work collaboratively with iOS, Android, UX, and management teams to maintain the SwiftUI-based iOS application. My focus lies in reviewing and upholding code that is not only readable and clean but also testable."*
 
 *Full Stack Developer at Plate Rate*
 > *Collaborate with a multinational team using Front End Technology ```ReactJS```, ```HTML5```, ```CSS3``` and ```JavaScript (ES6)```.*
