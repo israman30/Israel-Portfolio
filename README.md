@@ -15,7 +15,7 @@ _Experienced iOS Engineer with a proven track record of designing, developing, a
 
 ## The Stack
 
-_In mobile development, I wield Xcode, Swift, and SwiftUI, complemented by Objective-C. On the Android frontier, I navigate with Kotlin and Java, utilizing the prowess of Android Studio_.
+_In mobile development, I wield ```Xcode```, ```Swift```, and ```SwiftUI```, complemented by ```Objective-C```. On the ```Android``` frontier, I navigate with ```Kotlin``` and ```Java```, utilizing the prowess of ```Android Studio```_.
 
 ### *Contact info*
 
@@ -55,7 +55,7 @@ Check the latest news with the news app :newspaper:
 
 ###### *Technology*
 
-- *Native application, using __Google__ and **Apple** IDEs. Xcode ```URLRequest & Codable ``` services and a third party library for Android ```OKHttpClient & Piccaso```*
+- *Crafting native applications involves harnessing the power of Google and Apple IDEs. In the realm of ```Xcode```, I skillfully utilize ```URLRequest``` and Codable services, while on the ```Android``` front, I leverage ```OKHttpClient``` and ```Picasso```, a third-party library.*
 
 - *Collection view __Xcode__ and Recycler view __Android Studio__, helps to re-use each cell/item when an article is been render. Chaching info for each cell/item, helps to save network calls each time a cell/item is called/re-use*
 
