@@ -15,7 +15,7 @@ _Experienced iOS Engineer with a proven track record of designing, developing, a
 
 ## The Stack
 
-*For mobile development, I employ __Xcode__ with ```Swift``` and ```SwiftUI```, along with some ```Objective-C```. I also utilize __Android Studio__ for ```Kotlin``` and ```Java``` in Android app development.*
+_In mobile development, I wield Xcode, Swift, and SwiftUI, complemented by Objective-C. On the Android frontier, I navigate with Kotlin and Java, utilizing the prowess of Android Studio_.
 
 ### *Contact info*
 
