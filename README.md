@@ -24,6 +24,10 @@ _In mobile development, I wield ```Xcode```, ```Swift```, and ```SwiftUI```, com
 [1]: http://www.twitter.com/carlsednaoui
 
 ### Professional Exeperience
+
+*iOS Software Engineer at Microsoft*
+> *Creating and maintaining a sophisticated, fully-fledged production application developed in ```SwiftUI```. Crafting inclusive components to enhance accessibility for diverse languages and countries, impacting millions and ensuring an intuitive user experience. Collaborating closely with the UX Design team to deliver optimal user interactions.*
+
 *iOS Engineer at Limeade*
 > *"Lead the development, maintenance, and collaboration of iOS front-end projects, specializing in ```A11y``` (Accessibility) user interface design. Proactively contribute to the CI/CD pipeline by creating, maintaining, and reviewing clean, readable, and testable code, ensuring high-quality software delivery."*
 
