@@ -4,18 +4,18 @@
 
 ### *I am..*
 
-_Experienced iOS Engineer with a proven track record of designing, developing, and optimizing robust mobile applications. Committed to delivering exceptional user experiences through innovative solutions and staying abreast of the latest technologies in the ever-evolving iOS landscape_.
+_Experienced iOS Engineer with a strong background in designing, developing, and optimizing high-performance mobile applications. Dedicated to creating exceptional user experiences through innovative solutions, while staying up-to-date with the latest advancements in the rapidly changing iOS ecosystem_.
 
 - ###### *Crafting Applications since 2016*
 
-- ###### *Accessibility specialist* [#A11y](https://www.a11yproject.com/)
+- ###### *Accessibility Specialist* [#A11y](https://www.a11yproject.com/)
 <p align="center">
 <img src="img/Accessibility.png" width="120">
 </p>
 
 ## The Stack
 
-_In mobile development, I wield ```Xcode```, ```Swift```, and ```SwiftUI```, complemented by ```Objective-C```. On the ```Android``` frontier, I navigate with ```Kotlin``` and ```Java```, utilizing the prowess of ```Android Studio```_.
+_In mobile development, I specialize in Xcode, Swift, and SwiftUI, with strong proficiency in Objective-C. On the Android side, I work with Kotlin and Java, leveraging the capabilities of Android Studio to build robust applications._.
 
 ### *Contact info*
 
@@ -26,7 +26,7 @@ _In mobile development, I wield ```Xcode```, ```Swift```, and ```SwiftUI```, com
 ### Professional Exeperience
 
 *iOS Software Engineer at Microsoft*
-> *Creating and maintaining a sophisticated, fully-fledged production application developed in ```SwiftUI```. Crafting inclusive components to enhance accessibility for diverse languages and countries, impacting millions and ensuring an intuitive user experience. Collaborating closely with the UX Design team to deliver optimal user interactions.*
+> *Developing and maintaining a complex, full-scale production application in ```SwiftUI```, with a focus on creating accessible components that cater to a global audience. Ensuring an intuitive user experience for millions by enhancing inclusivity across languages and regions. Working closely with the UX Design team to deliver seamless, user-friendly interactions.*
 
 *iOS Engineer at Limeade*
 > *"Lead the development, maintenance, and collaboration of iOS front-end projects, specializing in ```A11y``` (Accessibility) user interface design. Proactively contribute to the CI/CD pipeline by creating, maintaining, and reviewing clean, readable, and testable code, ensuring high-quality software delivery."*
@@ -47,7 +47,7 @@ _In mobile development, I wield ```Xcode```, ```Swift```, and ```SwiftUI```, com
 # NewsApp
 Check the latest news with the news app :newspaper:
 
-> Experience the latest news stories through My New News. Simply tap on a story to access and read the full news article. Stay effortlessly updated with the latest breaking news in a convenient way.
+> Stay informed with *My New News*, where you can easily access the latest news stories. Just tap on any headline to dive into the full article, ensuring you're always up to date with breaking news in the most convenient way possible.
 
 
 <p align="center">
@@ -55,7 +55,7 @@ Check the latest news with the news app :newspaper:
 <img src="/img/news/one-and.png" width="200"> <img src="/img/news/two-and.png" width="200"> 
 </p>
 
-[My New News](https://itunes.apple.com/us/app/my-new-news/id1210234219?mt=8)
+[My New News](https://itunes.apple.com/us/app/my-new-news/id1210234219?mt=8) 
 
 ###### *Technology*
 
