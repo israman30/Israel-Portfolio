@@ -86,7 +86,7 @@ Organize your tasks and set reminders effortlessly with our latest app update! R
 Unleash your creativity with our intuitive drawing app! Select from various brush sizes and an extensive color palette to craft captivating art. Save your masterpieces directly to your local gallery for easy access and sharing.
 
 <p align="center">
-<img src="/img/dibujo/one/" width="200"> <img src="/img/dibujo/two/" width="200"> 
+<img src="/img/dibujo/one.png" width="200"> <img src="/img/dibujo/two.png" width="200"> 
 <img src="/img/dibujo/one-and.png" width="200"> <img src="/img/dibujo/two-and.png" width="200"> 
 </p>
 
