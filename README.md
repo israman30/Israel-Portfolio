@@ -103,7 +103,7 @@ Our native drawing application leverages Apple's SwiftUI Canvas and Google's And
 > Android version, coming soon.. 📲
 
 <p align="center">
-<img src="/img/tip/one.png" width="250"> <img src="/img/tip/two.png" width="250"> <img src="/img/tip/three.png" width="250">
+<img src="/img/tip/one.png" width="250"> <img src="/img/tip/two.png" width="250"> 
 </p>
 
 [Tip Calculator](https://itunes.apple.com/us/app/my-new-news/id1210234219?mt=8)
