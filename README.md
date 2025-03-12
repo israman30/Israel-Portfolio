@@ -4,11 +4,11 @@
 
 ### *I am..*
 
-_Experienced iOS Engineer with a strong background in designing, developing, and optimizing high-performance mobile applications. Dedicated to creating exceptional user experiences through innovative solutions, while staying up-to-date with the latest advancements in the rapidly changing iOS ecosystem_.
+_Seasoned iOS Engineer with a proven track record in architecting, developing, and refining high-performance mobile applications. I am passionate about crafting exceptional user experiences through innovative solutions and consistently staying at the forefront of emerging trends in the dynamic iOS ecosystem._.
 
-- ###### *Crafting Applications since 2016*
+- ###### *Developing innovative, user-centric applications since 2016.*
 
-- ###### *Accessibility Specialist* [#A11y](https://www.a11yproject.com/)
+- ###### *Mobile and Web Accessibility Specialist with extensive experience in designing and implementing accessible digital experiences across platforms.* [#A11y](https://www.a11yproject.com/)
 <p align="center">
 <img src="img/Accessibility.png" width="120">
 </p>
@@ -26,19 +26,21 @@ _In mobile development, I specialize in Xcode, Swift, and SwiftUI, with strong p
 ### Professional Exeperience
 
 *iOS Software Engineer at Microsoft*
-> *Developing and maintaining a complex, full-scale production application in ```SwiftUI```, with a focus on creating accessible components that cater to a global audience. Ensuring an intuitive user experience for millions by enhancing inclusivity across languages and regions. Working closely with the UX Design team to deliver seamless, user-friendly interactions.*
+> *I have been developing and maintaining a robust, full-scale production application using `SwiftUI`, focusing on creating accessible components for a global audience. This includes ensuring an intuitive experience for millions by enhancing inclusivity across various languages and regions. Collaborating closely with the UX design team, I strive to deliver seamless and user-friendly interactions that meet the diverse needs of our users.
+
+> In addition to my work on mobile applications, I have contributed to enhancing accessibility in Visual Studio Code (VSCode). This involved implementing features such as screen reader support, high contrast themes, and keyboard navigation to improve the editor's usability for all users. These efforts align with VSCode's commitment to accessibility, as detailed in their documentation. [VSCode docs]("https://vscode-docs.readthedocs.io/en/latest/editor/accessibility/")
 
 *iOS Engineer at Limeade*
-> *"Lead the development, maintenance, and collaboration of iOS front-end projects, specializing in ```A11y``` (Accessibility) user interface design. Proactively contribute to the CI/CD pipeline by creating, maintaining, and reviewing clean, readable, and testable code, ensuring high-quality software delivery."*
+> *"I lead the development, maintenance, and cross-functional collaboration of iOS front-end projects with a focus on designing accessible user interfaces `(A11y)`. Additionally, I actively contribute to our `CI/CD` pipeline by writing, maintaining, and reviewing clean, readable, and testable code to ensure we deliver high-quality software consistently."*
 
 *iOS Engineer at EE Solutions*
-> *"As the leader of the ```iOS/iPad``` project, I actively collaborate with iOS, Android, UX, and management teams to oversee the comprehensive SwiftUI-based iOS application. I conduct thorough code reviews, ensuring the maintenance of clean, readable, and testable code."*
+> *"As the leader of the `iOS/iPad` project, I work closely with teams across iOS, Android, UX, and management to guide the development of a robust, SwiftUI-based application. I perform detailed code reviews to ensure our codebase remains clean, readable, and thoroughly testable, fostering high standards in our development process. Through this cross-functional collaboration, I ensure that every aspect of the application meets our design and performance goals while continuously driving improvements for an exceptional user experience."*
 
 *iOS Engineer at FlaveApp*
-> *"As the lead on the iOS project, I work collaboratively with iOS, Android, UX, and management teams to maintain the SwiftUI-based iOS application. My focus lies in reviewing and upholding code that is not only readable and clean but also testable."*
+> *"As the lead on the iOS project, I collaborate closely with teams across iOS, Android, UX, and management to ensure our SwiftUI-based application runs seamlessly. I prioritize maintaining a codebase that is clean, readable, and fully testable through rigorous code reviews and adherence to best practices."*
 
 *Full Stack Developer at Plate Rate*
-> *Collaborate with a multinational team using Front End Technology ```ReactJS```, ```HTML5```, ```CSS3``` and ```JavaScript (ES6)```.*
+> *Collaborate with an international team to develop dynamic user interfaces using modern front-end technologies such as `ReactJS`, `HTML5`, `CSS3`, and `JavaScript (ES6)`..*
 
 <div align="center">
     <h2>My Projects</h2>
@@ -47,7 +49,7 @@ _In mobile development, I specialize in Xcode, Swift, and SwiftUI, with strong p
 # NewsApp
 Check the latest news with the news app :newspaper:
 
-> Stay informed with *My New News*, where you can easily access the latest news stories. Just tap on any headline to dive into the full article, ensuring you're always up to date with breaking news in the most convenient way possible.
+> Stay informed effortlessly with *My New News*. Tap any headline to access full articles, ensuring you're always up-to-date with the latest stories. 
 
 
 <p align="center">
@@ -59,16 +61,14 @@ Check the latest news with the news app :newspaper:
 
 ###### *Technology*
 
-- *Crafting native applications involves harnessing the power of Google and Apple IDEs. In the realm of ```Xcode```, I skillfully utilize ```URLRequest``` and Codable services, while on the ```Android``` front, I leverage ```OKHttpClient``` and ```Picasso```, a third-party library.*
+- *Developing native applications requires leveraging the capabilities of both Google and Apple's integrated development environments (IDEs). In Xcode, I adeptly employ Swift's `async/await` syntax alongside the `Codable` protocol to handle asynchronous tasks and data parsing efficiently. On the Android platform, I utilize `OkHttpClient` for HTTP operations and integrate the `Picasso` library to streamline image loading processes. This combination ensures robust and responsive mobile applications across both ecosystems.*
 
-- *Collection view __Xcode__ and Recycler view __Android Studio__, helps to re-use each cell/item when an article is been render. Chaching info for each cell/item, helps to save network calls each time a cell/item is called/re-use*
+- *In mobile application development, efficient rendering of lists is achieved through the use of `UICollectionView` in Xcode and `RecyclerView` in Android Studio. These components optimize performance by reusing cells or items during the rendering process. Implementing caching mechanisms for each cell/item minimizes repetitive network calls, as cached data is utilized when a cell/item is reused. This approach enhances application efficiency and provides a smoother user experience.*
 
 
 # The Chalkboard 
 
-Save the date and get your todos organized :iphone:
-
-> This version has been entirely updated using Swift. It stores data locally, allowing completed tasks to be removed. Additionally, it features local notifications that can be set for specific dates.
+Organize your tasks and set reminders effortlessly with our latest app update! Rewritten entirely in Swift, this version offers local data storage for managing your to-dos, the ability to remove completed tasks, and the convenience of scheduling local notifications for specific dates. Stay on top of your commitments with ease.
 
 <p align="center">
 <img src="/img/chalk/one.png" width="200"> <img src="/img/chalk/three.png" width="200"> 
@@ -77,15 +77,13 @@ Save the date and get your todos organized :iphone:
 
 ###### *Technology*
 
-- *Native application, using __Google__ and **Apple** IDEs. ```Picker controller & Calendar controller```, helps to get and set a locally reminders for the user*
+- Developed native applications utilizing both Google's and Apple's integrated development environments (IDEs). Implemented features such as Picker and Calendar controllers to facilitate local reminders for users.
 
-- *Table view __Xcode__ and Recycler view __Android Studio__, helps to re-use each cell/item when a task is been render. Each task is been persisted by ```Core Data & SQLite```*
+- Leveraged SwiftUI's LazyVGrid in Xcode and RecyclerView in Android Studio to efficiently render tasks by reusing cells/items. Persisted each task using Core Data and SQLite, ensuring data integrity and seamless user experience. 
 
 
 # iDibujo
-Create simple or amazing art with the drawing application. :iphone:
-
-> Indulge in creative expression by crafting captivating art. Select your desired brush size and choose any color you like. Your artistic creations can be saved conveniently in your local gallery.
+Unleash your creativity with our intuitive drawing app! Select from various brush sizes and an extensive color palette to craft captivating art. Save your masterpieces directly to your local gallery for easy access and sharing.
 
 <p align="center">
 <img src="/img/dibujo/one.png" width="200"> <img src="/img/dibujo/two.png" width="200"> 
@@ -96,37 +94,11 @@ Create simple or amazing art with the drawing application. :iphone:
 
 ###### *Technology*
 
-- *Native application, using __Google__ and **Apple** IDEs. Using points start & end ```CGPoint & Bitmap```*
-
-- *Custom Drawing view, ```Sliders & Seekbars``` helps to pick a color with __RGB__ values changing*
-
-# Hob Lux
-
-The apartment finder application is exclusive for luxury buildings in Hoboken, NJ. :iphone:
-
-> Product under construction.. 👨🏻‍💻🛠
-
-<p align="center">
-    <img src="/img/hob/main.png" width="200"> <img src="/img/hob/two.png" width="200"> <img src="/img/hob/map.png" width="200">
-</p>
-
-Displaying a list of buildings where the user can select and navigate a gallery of photos.
-
-> Product under construction.. 👨🏻‍💻🛠
-
-<p align="center">
-    <img src="/img/hob/list.png" width="200"> <img src="/img/hob/page.png" width="200"> <img src="/img/hob/four.png" width="200">
-</p>  
-
-###### *Technology*
-
-- *Using **Apple** Xcode IDE gives the tools to create a visual location of each building on screen*
-
-- *``` MapKit & Geo Location``` helps to display each annotation. Custom Collection view show a list of building that the user can tap and get a detail-info and gallery*
+Our native drawing application leverages Apple's SwiftUI Canvas and Google's Android development environments to deliver a seamless creative experience. Users can customize colors using intuitive sliders and seekbars, adjusting RGB values to achieve their desired hues. This functionality allows for precise color selection, enhancing the overall drawing experience. 
 
 # Tip-Calculator
 
-> Effortlessly compute your tip by inputting the bill amount. The application provides a breakdown of your tip amount, the total payment including the tip, and the initial bill. You can even save the bill for later reference and delete it as needed.
+> Effortlessly calculate your tip by entering the bill amount. The application provides a detailed breakdown, including the tip amount, total payment (bill plus tip), and the original bill. You can also save bills for future reference and delete them as needed..
 
 > Android version, coming soon.. 📲
 
@@ -138,18 +110,19 @@ Displaying a list of buildings where the user can select and navigate a gallery 
 
 ###### *Technology*
 
-- *Dynamic way to input and calculate real time a value tip*
-
-- *``` Core Data``` is my friend database that helps to persist saved values & of course can be delete it*
+- *Easily compute your tip by entering the bill amount. The app provides a real-time breakdown of the tip amount, total payment including the tip, and the initial bill. You can also save bills for future reference and delete them as needed. Utilizing Core Data, the app efficiently stores and manages your saved bills, ensuring quick access and the ability to remove entries when desired.
 
 
-### *What I am doing now..?*
+### *Here's a re-elaborated version of your statement:
 
-###### *Working as remote iOS Developer for a WA state mid size company*
+---
 
-###### *Full time father and husband*
+**What am I currently doing?**
 
-###### *israelmanzo814@gmail.com* 
+- I am working as a remote iOS Developer for a mid-sized company based in Washington State, where I focus on developing and enhancing mobile applications.
+- I also embrace my role as a full-time father and husband, balancing family life with my professional career.
+
+Feel free to adjust any part of it to better reflect your style!
 
 <div align="center">
     <p style="color:gray;font-size:5px;"><em>@israman30</em></p>
