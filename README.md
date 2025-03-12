@@ -110,7 +110,7 @@ Our native drawing application leverages Apple's SwiftUI Canvas and Google's And
 
 ###### *Technology*
 
-- *Easily compute your tip by entering the bill amount. The app provides a real-time breakdown of the tip amount, total payment including the tip, and the initial bill. You can also save bills for future reference and delete them as needed. Utilizing Core Data, the app efficiently stores and manages your saved bills, ensuring quick access and the ability to remove entries when desired.
+- Easily compute your tip by entering the bill amount. The app provides a real-time breakdown of the tip amount, total payment including the tip, and the initial bill. You can also save bills for future reference and delete them as needed. Utilizing Core Data, the app efficiently stores and manages your saved bills, ensuring quick access and the ability to remove entries when desired.
 
 
 ### *Here's a re-elaborated version of your statement:
