@@ -4,53 +4,59 @@
 
 ### *I am..*
 
-_Seasoned iOS Engineer with a proven track record in architecting, developing, and refining high-performance mobile applications. I am passionate about crafting exceptional user experiences through innovative solutions and consistently staying at the forefront of emerging trends in the dynamic iOS ecosystem._.
+_I'm a passionate and seasoned iOS Engineer with a proven track record in architecting, developing, and refining high-performance mobile applications. I am committed to crafting exceptional user experiences through innovative and accessible solutions, always staying at the forefront of emerging technologies within the ever-evolving iOS ecosystem._.
 
-- ###### *Developing innovative, user-centric applications since 2016.*
+- Designing and developing innovative, user-focused applications since 2016.
 
-- ###### *Mobile and Web Accessibility Specialist with extensive experience in designing and implementing accessible digital experiences across platforms.* [#A11y](https://www.a11yproject.com/)
-<p align="center">
-<img src="img/Accessibility.png" width="120">
-</p>
+- Accessibility Advocate — with extensive experience creating inclusive digital experiences across mobile and web platforms. [Learn more about A11y](https://www.a11yproject.com/)
 
-## The Stack
+## Technical Expertise
+In mobile development, I specialize in Xcode, Swift, SwiftUI, and Objective-C. I also have solid experience developing Android applications using Kotlin and Java, leveraging Android Studio for robust, scalable app development.
 
-_In mobile development, I specialize in Xcode, Swift, and SwiftUI, with strong proficiency in Objective-C. On the Android side, I work with Kotlin and Java, leveraging the capabilities of Android Studio to build robust applications._.
+### Contact Information
 
-### *Contact info*
-
-###### *israelmanzo814@gmail.com*
+- *israelmanzo814@gmail.com*
 
 [1]: http://www.twitter.com/carlsednaoui
 
-### Professional Exeperience
+### Professional Experience
 
-*iOS Software Engineer at Microsoft*
-> *I have been developing and maintaining a robust, full-scale production application using `SwiftUI`, focusing on creating accessible components for a global audience. This includes ensuring an intuitive experience for millions by enhancing inclusivity across various languages and regions. Collaborating closely with the UX design team, I strive to deliver seamless and user-friendly interactions that meet the diverse needs of our users.
+*iOS Software Engineer | Microsoft*
+- Develop and maintain large-scale production applications using `SwiftUI`.
 
-> In addition to my work on mobile applications, I have contributed to enhancing accessibility in Visual Studio Code (VSCode). This involved implementing features such as screen reader support, high contrast themes, and keyboard navigation to improve the editor's usability for all users. These efforts align with VSCode's commitment to accessibility, as detailed in their documentation. [VSCode docs]("https://vscode-docs.readthedocs.io/en/latest/editor/accessibility/")
+- Focus on designing and implementing accessible components for a global, multilingual audience.
 
-*iOS Engineer at Limeade*
-> *"I lead the development, maintenance, and cross-functional collaboration of iOS front-end projects with a focus on designing accessible user interfaces `(A11y)`. Additionally, I actively contribute to our `CI/CD` pipeline by writing, maintaining, and reviewing clean, readable, and testable code to ensure we deliver high-quality software consistently."*
+- Collaborate closely with UX design and product teams to enhance inclusivity and usability.
 
-*iOS Engineer at EE Solutions*
-> *"As the leader of the `iOS/iPad` project, I work closely with teams across iOS, Android, UX, and management to guide the development of a robust, SwiftUI-based application. I perform detailed code reviews to ensure our codebase remains clean, readable, and thoroughly testable, fostering high standards in our development process. Through this cross-functional collaboration, I ensure that every aspect of the application meets our design and performance goals while continuously driving improvements for an exceptional user experience."*
+- Contributed to improving accessibility features in Visual Studio Code (VSCode), including screen reader support and keyboard navigation.
+View [VSCode Accessibility Docs](https://vscode-docs.readthedocs.io/en/latest/editor/accessibility/)
 
-*iOS Engineer at FlaveApp*
-> *"As the lead on the iOS project, I collaborate closely with teams across iOS, Android, UX, and management to ensure our SwiftUI-based application runs seamlessly. I prioritize maintaining a codebase that is clean, readable, and fully testable through rigorous code reviews and adherence to best practices."*
+*iiOS Engineer | Limeade*
+- Led the development and maintenance of `iOS` front-end projects with an emphasis on accessibility (`A11y`) standards.
 
-*Full Stack Developer at Plate Rate*
-> *Collaborate with an international team to develop dynamic user interfaces using modern front-end technologies such as `ReactJS`, `HTML5`, `CSS3`, and `JavaScript (ES6)`..*
+- Contributed to `CI/CD` pipelines by writing, maintaining, and reviewing clean, scalable, and testable code.
+
+*iOS Engineer | EE Solutions*
+- Spearheaded the development of a SwiftUI-based iOS/iPadOS application.
+
+- Worked cross-functionally with Android, UX, and management teams to maintain code quality and deliver a seamless user experience.
+
+*iOS Engineer | FlaveApp*
+- Led the iOS development team, ensuring the app's SwiftUI codebase remained clean, maintainable, and testable.
+
+- Facilitated code reviews and collaboration across departments to meet high development standards.
+
+*FFull Stack Developer | Plate Ratee*
+- Developed dynamic user interfaces using `ReactJS`, `HTML5`, `CSS3`, and `JavaScript` (`ES6`).
+
+- Collaborated remotely with an international team to deliver a high-quality web experience.
 
 <div align="center">
     <h2>My Projects</h2>
 </div>
 
 # NewsApp
-Check the latest news with the news app :newspaper:
-
-> Stay informed effortlessly with *My New News*. Tap any headline to access full articles, ensuring you're always up-to-date with the latest stories. 
-
+Stay updated with the latest headlines and access full articles effortlessly. :newspaper: 
 
 <p align="center">
 <img src="/img/news/one.png" width="200"> <img src="/img/news/two.png" width="200">
@@ -61,9 +67,11 @@ Check the latest news with the news app :newspaper:
 
 ###### *Technology*
 
-- *Developing native applications requires leveraging the capabilities of both Google and Apple's integrated development environments (IDEs). In Xcode, I adeptly employ Swift's `async/await` syntax alongside the `Codable` protocol to handle asynchronous tasks and data parsing efficiently. On the Android platform, I utilize `OkHttpClient` for HTTP operations and integrate the `Picasso` library to streamline image loading processes. This combination ensures robust and responsive mobile applications across both ecosystems.*
+- Swift’s `async/await` and `Codable` for asynchronous data handling.
 
-- *In mobile application development, efficient rendering of lists is achieved through the use of `UICollectionView` in Xcode and `RecyclerView` in Android Studio. These components optimize performance by reusing cells or items during the rendering process. Implementing caching mechanisms for each cell/item minimizes repetitive network calls, as cached data is utilized when a cell/item is reused. This approach enhances application efficiency and provides a smoother user experience.*
+- Android’s `OkHttpClient` and `Picasso` libraries for `HTTP` operations and image rendering.
+
+- Optimized list rendering using `UICollectionView` and RecyclerView with caching strategies.
 
 
 # The Chalkboard 
@@ -77,9 +85,9 @@ Organize your tasks and set reminders effortlessly with our latest app update! R
 
 ###### *Technology*
 
-- Developed native applications utilizing both Google's and Apple's integrated development environments (IDEs). Implemented features such as Picker and Calendar controllers to facilitate local reminders for users.
+- SwiftUI’s `LazyVGrid` and Android’s `RecyclerView` for efficient list rendering.
 
-- Leveraged SwiftUI's LazyVGrid in Xcode and RecyclerView in Android Studio to efficiently render tasks by reusing cells/items. Persisted each task using Core Data and SQLite, ensuring data integrity and seamless user experience. 
+- `Core Data` and `SQLite` for robust local data persistence.
 
 
 # iDibujo
@@ -94,7 +102,9 @@ Unleash your creativity with our intuitive drawing app! Select from various brus
 
 ###### *Technology*
 
-Our native drawing application leverages Apple's SwiftUI Canvas and Google's Android development environments to deliver a seamless creative experience. Users can customize colors using intuitive sliders and seekbars, adjusting RGB values to achieve their desired hues. This functionality allows for precise color selection, enhancing the overall drawing experience. 
+- SwiftUI’s Canvas for drawing.
+
+- Custom RGB sliders for color adjustment, enhancing user creativity.
 
 # Tip-Calculator
 
@@ -110,17 +120,19 @@ Our native drawing application leverages Apple's SwiftUI Canvas and Google's And
 
 ###### *Technology*
 
-- Easily compute your tip by entering the bill amount. The app provides a real-time breakdown of the tip amount, total payment including the tip, and the initial bill. You can also save bills for future reference and delete them as needed. Utilizing Core Data, the app efficiently stores and manages your saved bills, ensuring quick access and the ability to remove entries when desired.
+- Real-time calculations and persistent storage using Core Data.
+
+- User-friendly breakdown of tips, total amounts, and original bills.
 
 
 ### *Here's a re-elaborated version of your statement:
 
 ---
 
-**What am I currently doing?**
+**Current Life**
+- Remote iOS Developer at a big-size company based in Washington State.
 
-- I am working as a remote iOS Developer for a mid-sized company based in Washington State, where I focus on developing and enhancing mobile applications.
-- I also embrace my role as a full-time father and husband, balancing family life with my professional career.
+- Full-time father and husband, balancing career aspirations with family life.
 
 Feel free to adjust any part of it to better reflect your style!
 
