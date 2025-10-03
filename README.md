@@ -22,38 +22,40 @@ In mobile development, I specialize in Xcode, Swift, SwiftUI, and Objective-C. I
 ### Professional Experience
 
 *iOS Software Engineer | Microsoft*
-- Develop and maintain large-scale production applications using `SwiftUI`.
 
-- Focus on designing and implementing accessible components for a global, multilingual audience.
-
-- Collaborate closely with UX design and product teams to enhance inclusivity and usability.
-
-- Contributed to improving accessibility features in Visual Studio Code (VSCode), including screen reader support and keyboard navigation.
-View [VSCode Accessibility Docs](https://vscode-docs.readthedocs.io/en/latest/editor/accessibility/)
+As a Software Engineer, I led the end-to-end design and development of a high-performance Accessibility Assistant application built in SwiftUI, ultimately impacting millions of global users. My architectural focus was on delivering highly scalable, production-ready solutions with guaranteed **100% compliance with WCAG standards and Apple HIG**. I partnered closely with cross-functional stakeholders (UX/UI, Product, Backend) to translate complex requirements into intuitive features, while simultaneously authoring comprehensive technical documentation and architecture guidelines to mentor developers and accelerate onboarding within the Agile development framework.
 
 *iiOS Engineer | Limeade*
-- Led the development and maintenance of `iOS` front-end projects with an emphasis on accessibility (`A11y`) standards.
 
-- Contributed to `CI/CD` pipelines by writing, maintaining, and reviewing clean, scalable, and testable code.
+I served as the **iOS Guild Team Lead**, successfully mentoring mid- and junior-level developers and driving the crucial adoption of accessibility-first design principles and Apple best practices across the mobile organization. I was responsible for the design and maintenance of a modular SwiftUI/UIKit component library that ensured consistent UI/UX across both iPhone and iPad platforms. Furthermore, I owned the mobile deployment process, implementing and maintaining robust CI/CD pipelines using Azure DevOps to enable automated testing, continuous integration, and rapid, reliable delivery of features in collaboration with QA and product stakeholders.
 
 *iOS Engineer | EE Solutions*
-- Spearheaded the development of a SwiftUI-based iOS/iPadOS application.
 
-- Worked cross-functionally with Android, UX, and management teams to maintain code quality and deliver a seamless user experience.
+In this **Lead iOS Developer** capacity, I drove the entire development cycle for a live production iOS/iPad application built entirely in SwiftUI for a high-traffic enterprise environment. I was responsible for implementing core infrastructure components, including robust REST API integration, dynamic data handling, and offline caching strategies. Crucially, I championed code reliability by leading the adoption of unit testing and Test-Driven Development (TDD) across the development lifecycle, while actively mentoring team members on Swift best practices, modular architecture, and delivering features on aggressive timelines without compromising quality.
 
 *iOS Engineer | FlaveApp*
-- Led the iOS development team, ensuring the app's SwiftUI codebase remained clean, maintainable, and testable.
 
-- Facilitated code reviews and collaboration across departments to meet high development standards.
+As an **Lead iOS Developer**, I was responsible for maintaining a critical hybrid UIKit/SwiftUI application, with a strong emphasis on continuous optimization of the user experience in strict alignment with accessibility standards and Apple best practices. This role required high efficiency to address production issues and resolve bugs quickly, providing continuous enhancement to the app's core functionality and stability during a high-growth phase.
 
-*FFull Stack Developer | Plate Ratee*
-- Developed dynamic user interfaces using `ReactJS`, `HTML5`, `CSS3`, and `JavaScript` (`ES6`).
+*Full Stack Developer | Plate Ratee*
 
-- Collaborated remotely with an international team to deliver a high-quality web experience.
+In this **Full Stack Developer** role, I leveraged my frontend expertise to design responsive web interfaces using modern frameworks, including ReactJS, HTML5, CSS3, and JavaScript (ES6), resulting in a measurable increase in user engagement across web components. I ensured high code quality and development efficiency by maintaining consistent code reviews and collaborating closely with QA to execute robust End-to-End (E2E) testing using Cypress and WebDriver, which significantly enhanced system reliability and quality control for releases.
 
 <div align="center">
     <h2>My Projects</h2>
 </div>
+
+# Device health
+
+A comprehensive iOS app for monitoring device health, performance metrics, and providing smart recommendations to optimize your device.
+
+Check it out in the [App Store](https://apps.apple.com/us/app/device-health/id6748570907)
+
+# Utils
+
+Modular SwiftUI Utilities: Essential **SwiftUI** `extensions`, `modifiers`, and `view components` designed for rapid, enterprise-grade iOS application assembly.
+
+Check it on the [GitHub Repo Utils](https://github.com/israman30/Utils)
 
 # NewsApp
 Stay updated with the latest headlines and access full articles effortlessly. :newspaper: 
