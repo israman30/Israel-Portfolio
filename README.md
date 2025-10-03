@@ -45,19 +45,19 @@ In this **Full Stack Developer** role, I leveraged my frontend expertise to desi
     <h2>My Projects</h2>
 </div>
 
-# Device health
+## Device health
 
 A comprehensive iOS app for monitoring device health, performance metrics, and providing smart recommendations to optimize your device.
 
 Check it out in the [App Store](https://apps.apple.com/us/app/device-health/id6748570907)
 
-# Utils
+## Utils
 
 Modular SwiftUI Utilities: Essential **SwiftUI** `extensions`, `modifiers`, and `view components` designed for rapid, enterprise-grade iOS application assembly.
 
 Check it on the [GitHub Repo Utils](https://github.com/israman30/Utils)
 
-# NewsApp
+## NewsApp
 Stay updated with the latest headlines and access full articles effortlessly. :newspaper: 
 
 <p align="center">
@@ -67,16 +67,7 @@ Stay updated with the latest headlines and access full articles effortlessly. :n
 
 [My New News](https://itunes.apple.com/us/app/my-new-news/id1210234219?mt=8) 
 
-###### *Technology*
-
-- Swift’s `async/await` and `Codable` for asynchronous data handling.
-
-- Android’s `OkHttpClient` and `Picasso` libraries for `HTTP` operations and image rendering.
-
-- Optimized list rendering using `UICollectionView` and RecyclerView with caching strategies.
-
-
-# The Chalkboard 
+## The Chalkboard 
 
 Organize your tasks and set reminders effortlessly with our latest app update! Rewritten entirely in Swift, this version offers local data storage for managing your to-dos, the ability to remove completed tasks, and the convenience of scheduling local notifications for specific dates. Stay on top of your commitments with ease.
 
@@ -85,14 +76,7 @@ Organize your tasks and set reminders effortlessly with our latest app update! R
 <img src="/img/chalk/one-and.png" width="200"> <img src="/img/chalk/two-and.png" width="200">
 </p>
 
-###### *Technology*
-
-- SwiftUI’s `LazyVGrid` and Android’s `RecyclerView` for efficient list rendering.
-
-- `Core Data` and `SQLite` for robust local data persistence.
-
-
-# iDibujo
+## iDibujo
 Unleash your creativity with our intuitive drawing app! Select from various brush sizes and an extensive color palette to craft captivating art. Save your masterpieces directly to your local gallery for easy access and sharing.
 
 <p align="center">
@@ -102,13 +86,7 @@ Unleash your creativity with our intuitive drawing app! Select from various brus
 
 [iDibujo](https://apps.apple.com/us/app/idibujo/6446123873)
 
-###### *Technology*
-
-- SwiftUI’s Canvas for drawing.
-
-- Custom RGB sliders for color adjustment, enhancing user creativity.
-
-# Tip-Calculator
+## Tip-Calculator
 
 > Effortlessly calculate your tip by entering the bill amount. The application provides a detailed breakdown, including the tip amount, total payment (bill plus tip), and the original bill. You can also save bills for future reference and delete them as needed..
 
@@ -120,23 +98,9 @@ Unleash your creativity with our intuitive drawing app! Select from various brus
 
 [Tip Calculator](https://itunes.apple.com/us/app/my-new-news/id1210234219?mt=8)
 
-###### *Technology*
-
-- Real-time calculations and persistent storage using Core Data.
-
-- User-friendly breakdown of tips, total amounts, and original bills.
-
-
-### *Here's a re-elaborated version of your statement:
-
 ---
 
-**Current Life**
-- Remote iOS Developer at a big-size company based in Washington State.
 
-- Full-time father and husband, balancing career aspirations with family life.
-
-Feel free to adjust any part of it to better reflect your style!
 
 <div align="center">
     <p style="color:gray;font-size:5px;"><em>@israman30</em></p>
