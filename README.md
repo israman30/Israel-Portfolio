@@ -60,7 +60,25 @@ Check it out in the [App Store](https://apps.apple.com/us/app/device-health/id67
 
 ## Utils
 
-Modular SwiftUI Utilities: Essential **SwiftUI** `extensions`, `modifiers`, and `view components` designed for rapid, enterprise-grade iOS application assembly.
+## Modular SwiftUI Utilities: Enterprise Foundation
+
+This library is a **foundational collection of essential SwiftUI utilities** engineered specifically for high-velocity, enterprise-grade iOS application assembly. It provides development teams with a curated set of battle-tested extensions, reusable view modifiers, and complex atomic components, ensuring consistency and quality across large-scale projects.
+
+---
+
+### Core Value Proposition
+
+The primary goal of these utilities is to drastically reduce boilerplate code and accelerate feature delivery. By providing pre-built, production-ready modules, engineers can shift their focus from repetitive implementation tasks (like custom button styling, robust state handling, or complex layout abstractions) to **solving unique business logic**. The result is accelerated development velocity without compromising the stability or maintainability required in an enterprise environment.
+
+### Technical Components and Features
+
+This framework is composed of three core modular elements:
+
+1.  **Essential View Extensions:** Standardized extensions for fundamental SwiftUI types that enhance developer ergonomics. This includes simplified accessors for styling (e.g., semantic color palettes, typography) and common layout adjustments.
+2.  **Reusable View Modifiers:** A library of custom, composable modifiers that encapsulate design tokens and cross-app behaviors. Examples include dynamic theming hooks, standardized accessibility wrappers, and performance-optimized view update strategies.
+3.  **Atomic View Components:** Pre-designed, highly-tested components (like customized text fields, stateful buttons, modal presenters, and scalable navigation stacks) that can be instantly plugged into any feature. These components enforce strict adherence to design systems and **Apple Human Interface Guidelines (HIG)**, ensuring a world-class user experience out-of-the-box.
+
+The entire framework is designed for maximum **testability**, allowing teams to integrate unit and snapshot testing effortlessly, guaranteeing that all application features assembled with these utilities inherit robust quality standards.
 
 Check it on the [GitHub Repo Utils](https://github.com/israman30/Utils)
 
