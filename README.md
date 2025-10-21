@@ -112,8 +112,23 @@ The entire framework is designed for maximum **testability**, allowing teams to 
 
 Check it on the [GitHub Repo Utils](https://github.com/israman30/Utils)
 
-## NewsApp
-Stay updated with the latest headlines and access full articles effortlessly. :newspaper: 
+
+### Real-Time Global News Aggregator: My New News
+
+This application serves as a high-speed, streamlined **Real-Time Global News Aggregator**, designed to deliver comprehensive headlines and full article content with minimal latency and maximum readability, ensuring users are always informed without being overwhelmed.
+
+---
+
+#### Core Value Proposition
+
+The central promise is **effortless knowledge acquisition**. The app eliminates friction in staying current by providing a unified, clean interface that aggregates content from multiple global sources. It prioritizes speed, allowing users to scroll, triage headlines, and instantly access the full article content in a dedicated, distraction-free reader view.
+
+#### Technical Components and Features
+
+1.  **High-Speed Asynchronous Fetching:** Utilizes a highly optimized asynchronous networking layer (e.g., Swift's `async/await` with URLSession) to pull, parse, and cache article metadata from numerous RSS and custom news APIs simultaneously, ensuring the feed is refreshed instantly upon opening.
+2.  **In-App Readability Mode:** Implements a custom reader view that strips away extraneous web elements (ads, excessive navigation) from full articles, using HTML parsing to focus purely on text and images, offering font control and dark mode support.
+3.  **Personalized Curation Engine:** Features intelligent local filtering tools that allow users to curate feeds by source, topic, or keyword. It uses lightweight algorithms to promote trending or locally relevant headlines based on user interaction history.
+4.  **Offline Access:** Critically, the app caches a selectable number of full articles and images locally, leveraging Core Data or Realm, allowing users to read content effortlessly even when connectivity is lost.
 
 <p align="center">
 <img src="/img/news/one.png" width="200"> <img src="/img/news/two.png" width="200">
@@ -122,17 +137,48 @@ Stay updated with the latest headlines and access full articles effortlessly. :n
 
 [My New News](https://itunes.apple.com/us/app/my-new-news/id1210234219?mt=8) 
 
-## The Chalkboard 
+***
 
-Organize your tasks and set reminders effortlessly with our latest app update! Rewritten entirely in Swift, this version offers local data storage for managing your to-dos, the ability to remove completed tasks, and the convenience of scheduling local notifications for specific dates. Stay on top of your commitments with ease.
+### Swift-Native Task & Reminder Manager: The Chalkboard
+
+This is a complete reimagining of essential productivity tools, rebuilt entirely in **Swift** to deliver a fast, reliable, and deeply native experience. It serves as a focused Task Manager prioritizing speed, user control, and device-native integration over cloud complexity.
+
+---
+
+#### Core Value Proposition
+
+The core value lies in **reliable, effortless task organization and commitment management**. By focusing on local data storage and native Swift performance, the app ensures that tasks and reminders are managed instantly and privately, guaranteeing users stay on top of commitments without the latency or privacy concerns associated with third-party servers.
+
+#### Technical Components and Features
+
+1.  **Swift-Only Architecture:** Built entirely in modern Swift, ensuring optimal performance, type safety, and maintainability. It leverages modern concurrency features to keep the UI fluid regardless of the volume of tasks.
+2.  **Robust Local Data Layer:** Utilizes a persistent local database (e.g., Core Data or SwiftData) for managing the complete lifecycle of to-dos. This design ensures data integrity, rapid data access, and full offline capability.
+3.  **Native Notification Scheduling:** Integrates deeply with the `UNUserNotificationCenter` framework to accurately schedule **local notifications** for specific dates and times, handling all necessary logic for recurring tasks and time zone changes natively on the device.
+4.  **Efficient Task Lifecycle Management:** Features intuitive gesture-based actions for managing the to-do lifecycle, including seamless CRUD (Create, Read, Update, Delete) operations and a dedicated mechanism to permanently or temporarily **remove completed tasks** while maintaining a clean, focused list view.
 
 <p align="center">
 <img src="/img/chalk/one.png" width="200"> <img src="/img/chalk/three.png" width="200"> 
 <img src="/img/chalk/one-and.png" width="200"> <img src="/img/chalk/two-and.png" width="200">
 </p>
 
-## iDibujo
-Unleash your creativity with our intuitive drawing app! Select from various brush sizes and an extensive color palette to craft captivating art. Save your masterpieces directly to your local gallery for easy access and sharing.
+***
+
+### Intuitive Digital Canvas & Creative Studio: iDibujo
+
+This application is an **Intuitive Digital Canvas & Creative Studio**, designed to lower the barrier to digital art creation. It combines essential, high-quality drawing tools with a simple, secure local management system, allowing users to focus entirely on unleashing their creativity.
+
+---
+
+#### Core Value Proposition
+
+The promise is **effortless digital creation** combined with **secure local storage**. Users gain powerful yet simple artistic tools that are highly responsive, allowing for detailed, captivating art creation. By saving directly to a **local gallery**, the app ensures user creations are immediately accessible and secure.
+
+#### Technical Components and Features
+
+1.  **High-Performance Drawing Engine:** Built on **Core Graphics** or **Metal** for low-latency rendering, providing a smooth, responsive drawing experience. The engine supports variable pressure (if applicable) and interpolation for fluid brush strokes.
+2.  **Dynamic Brush & Color Controls:** Features a highly customizable, floating toolbar allowing users to **select from various brush sizes** (with adjustable opacity) and access an **extensive color palette** via a color wheel or slider interface, enabling granular color selection.
+3.  **Local Gallery Persistence:** Manages artwork using efficient serialization techniques (e.g., PNG or proprietary format) and stores files securely within the application's document directory. This dedicated **local gallery** ensures masterpieces are saved immediately.
+4.  **Native Sharing Integration:** Seamlessly integrates with the iOS `UIActivityViewController` to allow easy access and **sharing** of high-resolution images to social media, messaging apps, or the user's main Photo Library.
 
 <p align="center">
 <img src="/img/dibujo/one.png" width="200"> <img src="/img/dibujo/two.png" width="200"> 
@@ -141,17 +187,31 @@ Unleash your creativity with our intuitive drawing app! Select from various brus
 
 [iDibujo](https://apps.apple.com/us/app/idibujo/6446123873)
 
-## Tip-Calculator
+***
 
-> Effortlessly calculate your tip by entering the bill amount. The application provides a detailed breakdown, including the tip amount, total payment (bill plus tip), and the original bill. You can also save bills for future reference and delete them as needed..
+### Advanced Tip & Expense Manager: Tip Calculator
 
-> Android version, coming soon.. 📲
+This app is an **Advanced Tip & Expense Manager** designed for financial clarity in social settings. It moves beyond simple tipping, providing a complete transaction breakdown and a persistent history feature to track discretionary spending over time.
+
+---
+
+#### Core Value Proposition
+
+The core value is **instant, error-free financial breakdown** and **effortless historical tracking**. It eliminates calculation anxiety by instantly computing the tip, total payment, and original bill, while the saving functionality ensures users can monitor their dining and service expenses for future reference and budgeting.
+
+#### Technical Components and Features
+
+1.  **Precision Calculation Logic:** Uses robust floating-point math to instantly calculate and display the **tip amount**, **total payment (bill plus tip)**, and the **original bill** based on the entered amount and a user-selected percentage (with rounding options).
+2.  **Interactive Breakdown UI:** Features a dynamic interface (likely SwiftUI) where inputs (bill amount, tip percentage) instantly update all output fields, providing clear visual confirmation of the final cost.
+3.  **Persistent Local History:** Utilizes local storage (such as Core Data or UserDefaults) to **save bills for future reference**. Each saved record includes the date, amount, tip percentage, and final total, creating a personal history log.
+4.  **Historical Management:** Implements intuitive list controls for viewing and deleting past transactions, allowing users to **delete bills as needed** to maintain an accurate and relevant expense record.
 
 <p align="center">
 <img src="/img/tip/two.png" width="250"> <img src="/img/tip/one.png" width="250"> 
 </p>
 
 [Tip Calculator](https://itunes.apple.com/us/app/my-new-news/id1210234219?mt=8)
+
 
 ---
 
