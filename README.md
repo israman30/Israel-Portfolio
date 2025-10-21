@@ -53,7 +53,8 @@ Check it out in the [App Store](https://apps.apple.com/us/app/device-health/id67
 
 <p align="center">
 <img src="/img/dv/one.png" width="200"> <img src="/img/dv/two.png" width="200">
-<img src="/img/dv/one-and.png" width="200"> <img src="/img/dv/two-and.png" width="200"> 
+<img src="/img/dv/three.png" width="200"> <img src="/img/dv/four.png" width="200"> 
+<img src="/img/dv/five.png" width="200"> 
 </p>
 
 ## Utils
