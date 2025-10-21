@@ -51,6 +51,11 @@ A comprehensive iOS app for monitoring device health, performance metrics, and p
 
 Check it out in the [App Store](https://apps.apple.com/us/app/device-health/id6748570907)
 
+<p align="center">
+<img src="/img/dv/one.png" width="200"> <img src="/img/dv/two.png" width="200">
+<img src="/img/dv/one-and.png" width="200"> <img src="/img/dv/two-and.png" width="200"> 
+</p>
+
 ## Utils
 
 Modular SwiftUI Utilities: Essential **SwiftUI** `extensions`, `modifiers`, and `view components` designed for rapid, enterprise-grade iOS application assembly.
