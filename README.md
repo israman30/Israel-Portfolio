@@ -52,7 +52,7 @@ A comprehensive iOS app for monitoring device health, performance metrics, and p
 Check it out in the [App Store](https://apps.apple.com/us/app/device-health/id6748570907)
 
 <p align="center">
-<img src="/img/dv/one.png" width="200"> <img src="/img/dv/two.png" width="200">
+<img src="/img/dv/one" width="200"> <img src="/img/dv/two.png" width="200">
 <img src="/img/dv/three.png" width="200"> <img src="/img/dv/four.png" width="200"> 
 <img src="/img/dv/five.png" width="200"> 
 </p>
