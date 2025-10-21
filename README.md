@@ -112,6 +112,32 @@ The entire framework is designed for maximum **testability**, allowing teams to 
 
 Check it on the [GitHub Repo Utils](https://github.com/israman30/Utils)
 
+***
+
+### Advanced Tip & Expense Manager: Tip Calculator
+
+This app is an **Advanced Tip & Expense Manager** designed for financial clarity in social settings. It moves beyond simple tipping, providing a complete transaction breakdown and a persistent history feature to track discretionary spending over time.
+
+---
+
+#### Core Value Proposition
+
+The core value is **instant, error-free financial breakdown** and **effortless historical tracking**. It eliminates calculation anxiety by instantly computing the tip, total payment, and original bill, while the saving functionality ensures users can monitor their dining and service expenses for future reference and budgeting.
+
+#### Technical Components and Features
+
+1.  **Precision Calculation Logic:** Uses robust floating-point math to instantly calculate and display the **tip amount**, **total payment (bill plus tip)**, and the **original bill** based on the entered amount and a user-selected percentage (with rounding options).
+2.  **Interactive Breakdown UI:** Features a dynamic interface (likely SwiftUI) where inputs (bill amount, tip percentage) instantly update all output fields, providing clear visual confirmation of the final cost.
+3.  **Persistent Local History:** Utilizes local storage (such as Core Data or UserDefaults) to **save bills for future reference**. Each saved record includes the date, amount, tip percentage, and final total, creating a personal history log.
+4.  **Historical Management:** Implements intuitive list controls for viewing and deleting past transactions, allowing users to **delete bills as needed** to maintain an accurate and relevant expense record.
+
+<p align="center">
+<img src="/img/tip/two.png" width="250"> <img src="/img/tip/one.png" width="250"> 
+</p>
+
+[Tip Calculator](https://itunes.apple.com/us/app/my-new-news/id1210234219?mt=8)
+
+
 
 ### Real-Time Global News Aggregator: My New News
 
@@ -186,31 +212,6 @@ The promise is **effortless digital creation** combined with **secure local stor
 </p>
 
 [iDibujo](https://apps.apple.com/us/app/idibujo/6446123873)
-
-***
-
-### Advanced Tip & Expense Manager: Tip Calculator
-
-This app is an **Advanced Tip & Expense Manager** designed for financial clarity in social settings. It moves beyond simple tipping, providing a complete transaction breakdown and a persistent history feature to track discretionary spending over time.
-
----
-
-#### Core Value Proposition
-
-The core value is **instant, error-free financial breakdown** and **effortless historical tracking**. It eliminates calculation anxiety by instantly computing the tip, total payment, and original bill, while the saving functionality ensures users can monitor their dining and service expenses for future reference and budgeting.
-
-#### Technical Components and Features
-
-1.  **Precision Calculation Logic:** Uses robust floating-point math to instantly calculate and display the **tip amount**, **total payment (bill plus tip)**, and the **original bill** based on the entered amount and a user-selected percentage (with rounding options).
-2.  **Interactive Breakdown UI:** Features a dynamic interface (likely SwiftUI) where inputs (bill amount, tip percentage) instantly update all output fields, providing clear visual confirmation of the final cost.
-3.  **Persistent Local History:** Utilizes local storage (such as Core Data or UserDefaults) to **save bills for future reference**. Each saved record includes the date, amount, tip percentage, and final total, creating a personal history log.
-4.  **Historical Management:** Implements intuitive list controls for viewing and deleting past transactions, allowing users to **delete bills as needed** to maintain an accurate and relevant expense record.
-
-<p align="center">
-<img src="/img/tip/two.png" width="250"> <img src="/img/tip/one.png" width="250"> 
-</p>
-
-[Tip Calculator](https://itunes.apple.com/us/app/my-new-news/id1210234219?mt=8)
 
 
 ---
