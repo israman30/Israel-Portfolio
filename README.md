@@ -15,7 +15,7 @@
 
 ## About
 
-I am an iOS engineer who ships **production-grade mobile software** in complex enterprise environments most recently at **Microsoft**, where I contribute to the ecosystem millions rely on every day, including **Microsoft Teams** on iOS, alongside accessibility and assistant experiences. I care about **clear architecture**, **Swift and SwiftUI** done right, and **unit testing** that protects regressions not paperwork. I have repeatedly **owned** features end to end: from technical design and implementation to **CI/CD**, release discipline, and mentoring others. I lead by raising the bar on code quality, accessibility, and how we collaborate as a **team**.
+I am an Senior iOS engineer who ships **production-grade mobile software** in complex enterprise environments most recently at **Microsoft**, where I contribute to the ecosystem millions rely on every day, including **Microsoft Teams** on iOS, alongside accessibility and assistant experiences. I care about **clear architecture**, **Swift and SwiftUI** done right, and **unit testing** that protects regressions not paperwork. I have repeatedly **owned** features end to end: from technical design and implementation to **CI/CD**, release discipline, and mentoring others. I lead by raising the bar on code quality, accessibility, and how we collaborate as a **team**.
 
 **What I emphasize with partners and hiring teams:** Microsoft Teams & enterprise iOS surfaces · **Swift / SwiftUI** · **Unit testing** & testable design · **CI/CD** & release hygiene · **Technical leadership** · **Ownership** from design through production.
 
