@@ -15,11 +15,11 @@
 
 ## About
 
-I am an iOS engineer who ships **production-grade mobile software** in complex enterprise environments—most recently at **Microsoft**, where I contribute to the ecosystem millions rely on every day, including **Microsoft Teams** on iOS, alongside accessibility and assistant experiences. I care about **clear architecture**, **Swift and SwiftUI** done right, and **unit testing** that protects regressions—not paperwork. I have repeatedly **owned** features end to end: from technical design and implementation to **CI/CD**, release discipline, and mentoring others. I lead by raising the bar on code quality, accessibility, and how we collaborate as a **team**.
+I am an iOS engineer who ships **production-grade mobile software** in complex enterprise environments most recently at **Microsoft**, where I contribute to the ecosystem millions rely on every day, including **Microsoft Teams** on iOS, alongside accessibility and assistant experiences. I care about **clear architecture**, **Swift and SwiftUI** done right, and **unit testing** that protects regressions not paperwork. I have repeatedly **owned** features end to end: from technical design and implementation to **CI/CD**, release discipline, and mentoring others. I lead by raising the bar on code quality, accessibility, and how we collaborate as a **team**.
 
 **What I emphasize with partners and hiring teams:** Microsoft Teams & enterprise iOS surfaces · **Swift / SwiftUI** · **Unit testing** & testable design · **CI/CD** & release hygiene · **Technical leadership** · **Ownership** from design through production.
 
-Shipping user-centered software since **2016**. I am also an **accessibility advocate**—building inclusive experiences that meet real WCAG and platform expectations. Learn more about inclusive design at [The A11Y Project](https://www.a11yproject.com/).
+Shipping user centered software since **2016**. I am also an **accessibility advocate** building inclusive experiences that meet real WCAG and platform expectations. Learn more about inclusive design at [The A11Y Project](https://www.a11yproject.com/).
 
 ---
 
@@ -49,13 +49,13 @@ Mobile is my core: **Xcode, Swift, SwiftUI**, and **Objective-C** for mature cod
 
 ## Professional experience
 
-### iOS Software Engineer · Microsoft
+### Senior iOS Software Engineer · Microsoft
 
-I lead and deliver **high-impact iOS work** for products used at global scale—including **Microsoft Teams** and related Microsoft experiences—while also driving **Accessibility Assistant** and other SwiftUI-based initiatives that serve millions of users. I focus on **scalable, production-ready** architecture with strict attention to **WCAG** and **Apple HIG**. I partner with UX, product, and backend teams to turn ambiguous requirements into shippable features, and I write **architecture guidelines** and documentation that shorten onboarding and keep teams aligned in **Agile** delivery.
+I lead and deliver **high-impact iOS work** for products used at global scale including **Microsoft Teams** and related Microsoft experiences while also driving **Accessibility Assistant** and other SwiftUI based initiatives that serve millions of users. I focus on **scalable, production-ready** architecture with strict attention to **WCAG** and **Apple HIG**. I partner with UX, product, and backend teams to turn ambiguous requirements into shippable features, and I write **architecture guidelines** and documentation that shorten onboarding and keep teams aligned in **Agile** delivery.
 
-### iOS Engineer · Limeade *(iOS Guild Team Lead)*
+### Lead iOS Engineer · Limeade *(iOS Guild Team Lead)*
 
-I served as **iOS Guild Team Lead**, mentoring mid- and junior engineers and championing **accessibility-first** design and Apple best practices org-wide. I designed and maintained a **modular SwiftUI / UIKit** component library for consistent iPhone and iPad UX. I **owned** mobile releases and **CI/CD** on **Azure DevOps**: automated testing, integration, and dependable delivery with QA and product partners.
+I served as **iOS Guild Team Lead**, mentoring mid and junior engineers and championing **accessibility-first** design and Apple best practices org wide. I designed and maintained a **modular SwiftUI / UIKit** component library for consistent iPhone and iPad UX. I **owned** mobile releases and **CI/CD** on **Azure DevOps**: automated testing, integration, and dependable delivery with QA and product partners.
 
 ### iOS Engineer · EE Solutions *(Lead iOS Developer)*
 
