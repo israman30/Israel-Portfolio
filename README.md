@@ -77,6 +77,32 @@ I built responsive web UI with **React**, HTML5, CSS3, and modern JavaScript, an
 
 </div>
 
+### Work in progress
+
+Repos I am actively building and refining.
+
+---
+
+#### NeatOS — macOS file organization
+
+**Your friendly macOS file organization bot.** Turn messy desktops and folders into organized spaces with **natural language** commands and smart cleanup—built with **SwiftUI** for macOS.
+
+Describe what you want (“clean my desktop,” “find duplicates,” “archive old documents,” “clear derived data”) and NeatOS proposes actions with **preview**, **confirmation**, and a full **undo** stack (moves, archives, deletes, compress). Highlights include **quick action chips** (Desktop, Downloads, Documents, duplicates, Derived Data), **SHA256** duplicate detection, **Vision**-based image similarity, age and size heuristics, **Downloads auto-sort** (24-hour rule with extension mapping), archive under `~/Archive/YYYY-MM/`, compress targets under `~/Compressed/`, and an **Xcode Derived Data** cleaner with security-scoped folder access. **Trash-only** deletion, conflict handling, **VoiceOver** support, and shortcuts (**⌘1–3** for scans, **⌘⇧D** Derived Data, **⌘⇧Z** undo).
+
+**Environment:** macOS 15.5+, Xcode 16.4+, Swift 5+
+
+**Repo:** [NeatOS (Pepe Assiant)](https://github.com/israman30/MacOS-Repo/tree/main/Pepe%20Assiant/Pepe%20Assiant)
+
+---
+
+#### Book Scanner — iOS library catalog
+
+**Version 1.0** · An **iOS** app to build a personal book catalog: **scan ISBN/QR** with the camera, **browse** via the **Open Library** API (ISBN, author, title, subject, optional date range), and **save** metadata with notes, favorites, and thumbnails. **Core Data** + **CloudKit** keep your library **synced** across devices; export a single book or the full list as text. **PersistenceErrorHandler** surfaces structured Core Data / CloudKit errors for users and logging. Onboarding is a **four-page** carousel (welcome → scan → browse → organize). **Collection stats** (totals, top subject, recents), **list/grid**, search and swipe actions, editable details, and **duplicate ISBN** prevention.
+
+**Repo:** [Book Scanner](https://github.com/israman30/Book-scanner)
+
+---
+
 ## Device health
 
 ### The Device Health Command Center: Proactive iOS Optimization
